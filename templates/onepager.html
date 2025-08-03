@@ -1,0 +1,113 @@
+<!-- templates/onepager.html -->
+<!-- This is the homepage of the chatbot, which is the first page that users see-->
+
+<!-- This extends the base.html file, which is the parent of this page-->
+{% extends "base.html" %}
+
+<!-- The title of the page, which shows up in the browser tab-->
+{% block title %}Community Project - Harm Reduction Chatbot{% endblock %}
+
+<!-- The content of the page (which is defined in the child templates such as this one)-->
+{% block content %}
+
+    <!-- The jumbotron is the big banner at the top of the page-->
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+            <div class="title-container">
+                <!-- Large header -->
+                <h1 class="h1 text-center">Harm Reduction Chatbot</h1>
+            </div>
+            <div class="row mx-auto">
+                <!-- The chatbot image and number container-->
+                <div class="col-md-6 pr-25 m-0 text-right">
+                    <div class="chatbot-img-container">
+                        <img src="{{ url_for('static', filename='images/hr_bot_image.png') }}" alt="Harm Reduction Bot Image" class="center-image">
+                    </div>
+                        <div class="number-container">
+                        <div class="number-text pr-3 text-right animated-underline">(XXX) XXX-XXXX</div>
+                    </div>
+                </div>
+                <div class="col-md-6 pl-18 ml-0.9 text-left">
+                    <div class="phone-img-container">
+                        <img src="{{ url_for('static', filename='images/phone_screen.png') }}" class="center-image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <section class="container my-4">
+
+        <!-- Dynamic card-based layout for sections -->
+
+        <div class="row">
+
+            <!--Problem Section-->
+            <div class="col-md-6 mb-4">
+                <div class="card">
+                    <div class="card-header card-header-red">Problem 🤔</div>
+                    <div class="card-body">
+                        <p>If people don't have internet then they can't access internet-based resources. Educating individuals about harm reduction services empowers them to make decisions that reduce their risk. Many great online resources exist, describing different harm reduction programs. But people who are unsheltered or poor may have limited data on their phones, hampering their ability to access the resources. Public WiFi has imperfect coverage.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <!--Solution Section-->
+            <div class="col-md-6 mb-4">
+                <div class="card">
+                    <div class="card-header card-header-blue">Solution 💬</div>
+                    <div class="card-body">
+                        <p>This SMS-based chatbot allows anyone to learn about harm reduction resources, simply by texting a phone number! The SMS interface makes it easy to navigate information about Syringe Services Programs, Naloxone and Overdose Training, Shelter, and more. App users can find address information and a phone number to contact. The chatbot is free and the newest update connects people to helplines! This is NOT artificial intelligence but a simpler design like old AOL Instant Messenger bots</p>
+                    </div>           
+                </div>
+            </div>
+        </div>
+
+        <!--Efficiency Section-->
+        <div class="row">
+            <div class="col-12 mb-4">
+                <div class="card">
+                    <div class="card-header card-header-gray1">Efficiency ⚡️</div>
+                    <div class="card-body">
+                        <p>This innovative approach autonomously distributes information without requiring staff time and is available 24/7 The bot only costs between $.0079 and $.02 per text it receives and sends, so most utilizations will cost less than a dollar. Efficient public health! (Right now this bot is a proof-of-concept and is seeded with a small amount of money but a Patreon or grant could sustain service</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Emergency Alert Section -->
+            <div class="col-12 mb-4">
+                <div class="card">
+                    <div class="card-header card-header-gray2">Hazardous Drug Supply Alerts ⚠️</div>
+                    <div class="card-body">
+                        <p>The drug supply can undergo unexpected changes, putting people who use drugs at risk. For example, in Massachusetts the drug supply has seen changes like <a href="https://www.info.streetcheck.org/street-narcotics-updates-alerts">xylazine and new opioids.</a> TYhe chatbot developer integrated an emergency alert system into the harm reduction chatbot to notify participants about emergent risks. Individuals sign up via SMS and the chatbot. Administrators <a href="{{ url_for('website.admin_login') }}">sign in to their gated dashboard here</a>, sending out text blasts. This is a proof-of-concept and will consist of any news that comes out from official or community drug checking sources</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <!-- Evaluation Section -->
+            <div class="col-md-6 mb-4">
+                <div class="card">
+                    <div class="card-header card-header-gray3">Evaluation 📊</div>
+                    <div class="card-body">
+                        <p>The software developer is committed to furthering health equity. The chatbot collects race/ethnicity, gender, and age demographics to evaluate its reach and utilization. Additionally, the app tracks performance metrics like the number of users, sessions, and total texts exchanged. It tracks what programs people are interested in, to inform further development and guage the proof-of-concept's success.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Privacy Section -->
+            <div class="col-md-6 mb-4">
+                <div class="card">
+                    <div class="card-header card-header-purple">Privacy 🔒</div>
+                    <div class="card-body">
+                        <p>Perceived stigma is a barrier to people seeking out services. The chatbot applies the <a href="https://en.wikipedia.org/wiki/SHA-2">SHA-2 hashing function</a> to anonymize phone numbers it interacts with, so app users can feel comfortable about exploring harm reduction services. All activity on the app is anonymized. The emergency alerts system requires recording the subcriber's phone number, but it's opt-in.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+{% endblock %}

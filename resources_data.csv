@@ -1,0 +1,608 @@
+resource_category,organization_name,phone_number,address,latitude,longitude
+Shelter,Bristol Lodge Men's Shelter -  Shelters for Individuals - Waltham,(781) 893-0108,"27 Lexington Street P.O. Box 1095, Waltham, MA, 02451",42.377499,-71.2354602
+Shelter,Marlboro Shelter  - Shelters for Individuals,(508) 481-7847,"57 Mechanic Street, Marlborough, MA, 01752",42.3475447,-71.554897
+Shelter,Roland's House - Shelters for Individuals,(508) 620-2690,"57 Mechanic Street, Marlborough, MA, 01752",42.3475447,-71.554897
+Shelter,Turning Point Shelter - Shelters for Individuals,(508) 875-6429,"3 Merchant Road, Framingham, MA, 01702",42.2620283,-71.3987427
+Shelter,Shadows Shelter - Shelters for Individuals,(508) 231-8710,"25 Central Street, Ashland, MA, 01721",42.2576386,-71.4611607
+Shelter,Woods Mullen Shelter - Shelters for Individuals,(617) 534-7100,"784 Rear Massachusetts Avenue, Boston, MA, 02118",42.3348258,-71.0750232
+Shelter,College Avenue Shelter - Shelters for Individuals,(617) 623-2546,"14 Chapel Street, Somerville, MA, 02144",42.3988715,-71.1211573
+Shelter,First Church Shelter - Shelters for Individuals,(617) 661-1873,"11 Garden Street, Cambridge, MA, 02139",42.3766445,-71.1226562
+Shelter,Harvard Square Homeless Shelter - Shelters for Individuals,(888) 656-3414,"66 Winthrop Street, Cambridge, MA, 02138",42.3717532,-71.1200405
+Shelter,Emergency Service Center - Cambridge- Shelters for Individuals,(617) 661-0600,"240 Albany Street, Cambridge, MA, 02139",42.358284,-71.1008221
+Shelter,Middlesex Shelter - Shelters for Individuals,(978) 458-9888,"189 Middlesex Street, Lowell, MA, 01852",42.641003,-71.3120089
+Shelter,Pine Street Inn Night Drop-In Center - Shelters for Individuals,(617) 248-1998,"31 Bowker Street, Boston, MA, 02114",42.3625142,-71.0607735
+Shelter,Kingston House,(617) 482-8819,"39 Kingston Street, Boston, MA, 02112",42.353551,-71.059457
+Shelter,Father Bill's Place - Shelters for Individuals,(617) 770-3314,"38 Broad Street, Quincy, MA, 02169",42.2561089,-70.9946623
+Shelter,Lynn Emergency Shelter - Shelters for Individuals,(781) 581-6600,"100 Willow Street, Lynn, MA, 01901",42.4649682,-70.9475179
+Shelter,Daybreak Shelter - Shelters for Individuals,(978) 975-4547,"19 Winter Street, Lawrence, MA, 01841",42.7051721,-71.1703527
+Shelter,AgeSpan Elder Services Shelter - Shelters for Individuals,(800) 892-0890,"360 Merrimack Street, Lawrence, MA, 01843",42.7045377,-71.1429949
+Shelter,Greater Worcester Housing Connection - Shelters for Individuals,(508) 757-0103,"701 Main Street, Worcester, MA, 01610",42.2582178,-71.8069569
+Shelter,Lahey Health Behavioral Services Danvers Treatment Center - Shelters for Individuals,(800) 323-2224,"111 Middleton Road, Danvers, MA, 01923",42.5868892,-70.9766138
+Shelter,Salem Mission Shelter -  Shelters for Individuals,(978) 744-0500,"56 Margin Street, Salem, MA, 01970",42.5183953,-70.8966154
+Shelter,MainSpring House Shelter - Shelters for Individuals,(508) 587-5441,"54 North Main Street, Brockton, MA, 02301",42.0866898,-71.0201533
+Shelter,Emmaus House Shelter - Shelters for Individuals,(978) 241-3540,"127 How Street, Haverhill, MA, 01831",42.7770487,-71.0808996
+Shelter,Action Emergency Shelter -  Shelters for Individuals,(978) 282-1000,"180 Main Street, Gloucester, MA, 01930",42.6130986,-70.6616031
+Shelter,Market Ministries - Shelters for Individuals,(508) 997-3202,"60 Eighth Street, New Bedford, MA, 02740",41.6342071,-70.9293951
+Shelter,Silver Street Inn Transitional Housing Program -  Shelters for Individuals,(413) 774-7234,"219 Silver Street, Greenfield, MA, 01301",42.6068159,-72.5967057
+Shelter,Loreto House Shelter - Shelters for Individuals,(413) 533-5909,"51 Hamilton Street, Holyoke, MA, 01040",42.1984346,-72.606808
+Shelter,Worthington Street Shelter - Males - Shelters for Individuals,(413) 732-3069,"769 Worthington Street, Springfield, MA, 01105",42.1105135,-72.5844039
+Shelter,Worthington Street Shelter - Females - Shelters for Individuals,(413) 734-9946,"563 Worthington Street, Springfield, MA, 01105",42.1078641,-72.5876671
+Shelter,Cummings Memorial  -  Shelter for Men,(413) 732-0516,"148 Taylor Street, Springfield, MA, 01105",42.1075158,-72.5901217
+Shelter,Springfield Rescue Mission Shelter - Shelters for Men,(413) 732-0808,"19 Bliss Street, Springfield, MA, 01105",42.0997795,-72.5867106
+Shelter,Noah Shelter - Shelters for Individuals,(508) 778-5255,"77 Winter Street, Hyannis, MA, 02601",41.6539917,-70.2870261
+Syringe Service Program,ACCESS Drug User Health Program,(617) 661-3040,"359 Green Street, Cambridge, MA, 02139",42.3657252,-71.1056282
+Syringe Service Program,Access: Drug User Health Program,(617) 437-6200,"75 Amory Street, Boston, MA, 02119",42.3206791,-71.0997772
+Syringe Service Program,"Victory Programs, Inc. - Mobile Prevention Team",(617) 541-0222,"29 Stanhope Street, Boston, MA, 02176",42.3484755,-71.0730305
+Syringe Service Program,Life Connection Center,(978) 997-0588,"192 Appleton Street, Lowell, MA, 01852",42.6398553,-71.3118037
+Syringe Service Program,Boston Health Care for the Homeless a Satellite Site of BMC - Boston (START),(857) 654-1628,"780 Albany Street, Boston, MA, 02118",42.3336166,-71.0728071
+Syringe Service Program,Boston Needle Exchange Program - AHOPE - Overdose Prevention / Narcan (Naloxone) Training,(617) 534-3967,"774 Albany Street, Boston, MA, 02118",42.3336478,-71.0727596
+Syringe Service Program,Health Care for the Homeless - St. Francis,(617) 542-4704,"39 Boylston St,  Boston, MA, 02111",42.3525109,-71.063473
+Syringe Service Program,Victory Connector,(617) 541-0222,"965 Massachusetts Ave, Boston, MA, 02118",42.3291295,-71.0690676
+Syringe Service Program,Multicultural AIDS Coalition (Women Connecting Affecting Change),(617) 541-1050,"157A Washington Street, Boston, MA, 02121",42.3040479,-71.079387
+Syringe Service Program,MRC - Montachusett Recovery Center,(978) 227-5036,"106 Carter St Ste 40, Leominster, MA, 01453",42.5203301,-71.7477036
+Syringe Service Program,Lynn Community Health Center Bridge Clinic,(781) 581-3900,"269 Union Street, Lynn, MA, 01901",42.4650471,-70.9438909
+Syringe Service Program,Greater Lawrence Family Health Center Mobile Health Unit,(978) 686-0090,"100 Water Street, Lawrence, MA, 01841",42.7003379,-71.1698307
+Syringe Service Program,Manet Community Health Center- Snug Harbor,(617) 483-5799,"9 Bicknell Street, Quincy, MA, 02169",42.2522173,-70.9658639
+Syringe Service Program,AIDS Project Worcester - Opioid Overdose Prevention / Narcan (Naloxone) Training,(508) 755-3773,"165 Southbridge Street, Worcester, MA, 01604",42.2573415,-71.804922
+Syringe Service Program,MainSpring House Shelter - Shelters for Individuals,(508) 587-5441,"54 North Main Street, Brockton, MA, 02301",42.0866898,-71.0201533
+Syringe Service Program,Brockton Area Multi-Services,(508) 583-3405,"74 Pleasant Street, Brockton, MA, 02301",42.0853113,-71.0219651
+Syringe Service Program,Brockton Area Multi-Services - Opioid Overdose Prevention / Narcan (Naloxone) Training,(508) 583-3405,"74 Pleasant Street, Brockton, MA, 02301",42.0853113,-71.0219651
+Syringe Service Program,COPE Center (BAMSI),(508) 583-3405,"74 Pleasant St, Brockton, MA, 02301",42.0853113,-71.0219651
+Syringe Service Program,Brockton Neighborhood Health Center,(508) 559-6699,"63 Main Street, Brockton, MA, 02130",42.0845166,-71.0201542
+Syringe Service Program,Community Care In-Reach,(508) 233-0573,"63 Main Street, Brockton, MA, 02301",42.0845166,-71.0201542
+Syringe Service Program,One Stop Harm Reduction - North Shore Health Project,(978) 283-0101,"75 Winter Street, Haverhill, MA, 01830",42.7772722,-71.078988
+Syringe Service Program,Manet Community Health Center- Taunton,(508) 822-5500,"1 Washington Street, Taunton, MA, 02780",41.9006623,-71.098632
+Syringe Service Program,Seven Hills Behavioral Health- Taunton,(508) 996-0546,"9 Winthrop Street, Taunton, MA, 02780",41.9012285,-71.0943505
+Syringe Service Program,ONE STOP Harm Reduction Program,(978) 283-0101,"33 Commercial Street,  Gloucester, MA, 01930",42.6100269,-70.6661759
+Syringe Service Program,Plymouth C.O.P.E. Center,(508) 591-3870,"385 Court Street,  Plymouth, MA, 02360",41.9791287,-70.6913376
+Syringe Service Program,SSTAR Ambulatory Services - Substance Abuse Prevention Programs,(508) 679-5222,"386 Stanley Street, Fall River, MA, 02720",41.7151478,-71.1363484
+Syringe Service Program,SSTAR Opiate Triage Center,(508) 955-4673,"386 Stanley Street, Fall River, MA, 02720",41.7151478,-71.1363484
+Syringe Service Program,Seven Hills Behavioral Health Fall River,(508) 679-0962,"310 South Main Street, Fall River, MA, 02721",41.6983085,-71.1583505
+Syringe Service Program,Seven Hills Behavioral Health - Drop In Center (Fall River),(508) 235-1012,"356 South Main Street, Fall River, MA, 02720",41.6978561,-71.1589001
+Syringe Service Program,SSTAR,(508) 679-3296,"1010 South Main Street, Fall River, MA, 02724",41.6907377,-71.1651585
+Syringe Service Program,Tapestry Health- Greenfield,(413) 475-3377,"40 School Street  Greenfield, MA, 01301",42.5890807,-72.601107
+Syringe Service Program,New North Citizens Council,(413) 746-4885,"34 Catherine Street, Springfield, MA, 01109",42.112315,-72.5653714
+Syringe Service Program,Tapestry Health- Holyoke,(413) 586-8288,"15 Main Street, Holyoke, MA, 01040",42.2054735,-72.6024433
+Syringe Service Program,Tapestry Health- Northampton,(413) 586-0310,"16 Center Street, Northampton, MA, 01060",42.3189558,-72.631674
+Syringe Service Program,Tapestry Health (Holyoke),(413) 315-3732,"306 Race Street, Holyoke, MA, 01040",42.2004425,-72.6074938
+Syringe Service Program,Chicopee Health Center - Center for Recovery and Support,(413) 420-1730,"505 Front Street, Chicopee, MA, 01020",42.1487126,-72.5975781
+Syringe Service Program,Tapestry Health (Chicopee),(413) 586-2016,"12 Ames Ave, Chicopee, MA, 01013",42.1488332,-72.6023754
+Syringe Service Program,Tapestry Harm Reduction Services - Needle Exchange Programs,(413) 363-9472,"1985 Main Street, Springfield, MA, 01060",42.1072373,-72.5973525
+Syringe Service Program,AIDS Support Group of Cape Cod - Needle Exchange Programs,(508) 487-8311,"336 Commercial St., , Provincetown, MA, 02657",42.052855,-70.1849623
+Syringe Service Program,AIDS Support Group of Cape Cod - Falmouth,(774) 763-6656,"31 Teaticket Highway, East Falmouth, MA, 02536",41.5615848,-70.5978827
+Syringe Service Program,One Shared Spirit,(774) 228-3431,"651 Falmouth Road, Mashpee, MA, 02649",41.6121255,-70.49038
+Syringe Service Program,Tapestry Health - Westfield,(413) 241-5379,"17 East Silver Street, Westfield, MA, 01085",42.1139884,-72.7452526
+Syringe Service Program,AIDS Support Group of Cape Cod,(866) 990-2437,"428 South Street, Hyannis, MA, 02601",41.6487256,-70.2893999
+Syringe Service Program,AIDS Support Group of Cape Cod - Martha's Vineyard,(774) 994-7935,"517 State Road, Vineyard Haven, MA, 02568",41.4449951,-70.6189142
+Syringe Service Program,Syringe and Needle Disposal Site - Dennisport - Syringe and Needle Disposal Site,(508) 760-6158,"465 Main Street, Dennisport, MA, 02639",41.6884292,-70.156384
+Syringe Service Program,Berkshire Harm Reduction - North Adams,(413) 398-5603,"6 West Main Street , North Adams, MA, 01247",42.6997484,-73.1150386
+Syringe Service Program,Berkshire Harm Reduction Pittsfield,(413) 447-2654,"201, Pittsfield, MA, 01201",42.4500845,-73.2453824
+Medication for Opioid Use Disorder,BMC Addiction Warmline,(617) 414-4175,"1 Boston Medical Center Place, Boston, MA, 02118",42.3355661,-71.0724101
+Medication for Opioid Use Disorder,Eliot Center at Concord,(978) 369-1113,"86 Baker Ave Extension  Concord, MA, 01742",42.4614432,-71.3862892
+Medication for Opioid Use Disorder,"Spectrum Health Systems, Inc",(781) 290-4970,"210 BEAR HILL ROAD  WALTHAM, MA, 02451",42.3835891,-71.2660209
+Medication for Opioid Use Disorder,Advocates Community Counseling,(781) 893-5110,"675 Main Street, Waltham, MA, 02452",42.3764276,-71.2369137
+Medication for Opioid Use Disorder,"On Call Treatment, LLC",(833) 287-7223,"564 Main Street  Waltham, MA, 02452, Waltham, MA, 02452",42.3761777,-71.2332675
+Medication for Opioid Use Disorder,Newton Wellesley Hospital Substance Use Services,(617) 243-6062,"2000 Washington St, Newton, MA, 02462",42.3313754,-71.2455017
+Medication for Opioid Use Disorder,Children's Adolescent Substance use and Addiction Program (ASAP),(617) 355-2727,"9 Hope Avenue Multi-Specialty Clinic, Waltham, MA, 02453",42.3690042,-71.2493011
+Medication for Opioid Use Disorder,Spectrum Health Systems (Hub & Spoke with Co-located OTP),(508) 875-5801,"68 FRANKLIN STREET, FRAMINGHAM, MA, 01701",42.2790877,-71.4184797
+Medication for Opioid Use Disorder,"New Horizons Medical, P.C",(508) 872-0700,"214 HOWARD ST., FRAMINGHAM, MA, 01702",42.2781625,-71.4138412
+Medication for Opioid Use Disorder,Advocates Community Counseling - Outpatient Counseling,(508) 485-9300,"340 Maple Street, Marlborough, MA, 01752",42.3358096,-71.5410877
+Medication for Opioid Use Disorder,Wilton Cross,(617) 916-5069,"124 Watertown Street  Watertown, MA, 02472",42.3626965,-71.1909418
+Medication for Opioid Use Disorder,Paramount Recovery Centers,(978) 878-3677,"120 Turnpike Road  Southborough, MA, 01772, Southborough, MA, 01772",42.2916811,-71.5130512
+Medication for Opioid Use Disorder,"Northstar Recovery Center, LLC",(888) 311-0911,"132 Turnpike Road  Southborough, MA, 01772, Southborough, MA, 01772",42.2913777,-71.5149026
+Medication for Opioid Use Disorder,Greater Boston Addiction Center,(877) 926-3034,"322 Reservoir Street, Needham, MA, 02494, Needham, MA, 02494",42.3069899,-71.2261072
+Medication for Opioid Use Disorder,"Right Turn - Outpatient Counseling (Individual, Group, Family)",(781) 646-3800,"440 Arsenal Street, Watertown, MA, 02472",42.363652,-71.1624435
+Medication for Opioid Use Disorder,Mount Auburn Hospital Prevention & Recovery Center - Outpatient Counseling,(617) 499-5051,"330 MOUNT AUBURN STREET, CAMBRIDGE, MA, 02138",42.3738747,-71.1345237
+Medication for Opioid Use Disorder,North Charles Impact Outpatient Counseling,(617) 864-0941,"54 Washburn Avenue, Cambridge, MA, 02140, Cambridge, MA, 02140",42.4000624,-71.1303302
+Medication for Opioid Use Disorder,North Charles Institute For The Addictions Outpatient Counseling,(617) 661-5700,"54 Washburn Avenue, Cambridge, MA, 02140",42.4000624,-71.1303302
+Medication for Opioid Use Disorder,"Addiction Treatment Center of New England, Inc",(617) 254-1271,"77 Warren Street, Brighton, MA, 02135",42.3484365,-71.1423915
+Medication for Opioid Use Disorder,Better Life Partners,(866) 679-0831,"1900 West Park Dr  Westborough, MA, 01581",42.2810633,-71.5725269
+Medication for Opioid Use Disorder,Advocates Outpatient Services,(508) 661-2038,"257 Ayer Road, Harvard, MA, 01451",42.5339318,-71.5771167
+Medication for Opioid Use Disorder,Cambridge Health Alliance OBAT Program (Cambridge Family Health),(857) 523-0053,"2067 Massachusetts Avenue, Cambridge, MA, 02140",42.3916166,-71.122994
+Medication for Opioid Use Disorder,Greater Lawrence Family Health Center - South,(978) 686-3017,"73D Winthrop St, Lawrence, MA, 01843",42.6895562,-71.1507507
+Medication for Opioid Use Disorder,Behavioral Health Network (BHN) Somerville,(978) 655-9686,"401 HIGHLAND AVENUE, SOMERVILLE, MA, 02144",42.3961417,-71.1205261
+Medication for Opioid Use Disorder,Arbour Counseling Center - Allston,(617) 782-6460,"14 FORDHAM ROAD, BOSTON, MA, 02134",42.3518694,-71.1276985
+Medication for Opioid Use Disorder,"New Horizons Medical, P.C",(617) 202-9222,"358 HARVARD ST, BROOKLINE, MA, 02446",42.3441022,-71.1251004
+Medication for Opioid Use Disorder,Bournewood Hospital Detox - DMH Program,(617) 469-0300,"300 SOUTH STREET, Chestnut Hill, MA, 02467",42.2982761,-71.1493023
+Medication for Opioid Use Disorder,Acorn Health Services,(508) 691-6086,"112 Main Street,  Northborough, MA, 01532",42.3210721,-71.6333778
+Medication for Opioid Use Disorder,Arbour Counseling Services,(781) 932-8114,"10-I Roessler Road, Woburn, MA, 01801",42.510664,-71.1414999
+Medication for Opioid Use Disorder,"Arbour Counseling Services - Outpatient Counseling (Individual, Group, Family)",(781) 871-6550,"10-I Roessler Rd., Woburn, MA, 01801",42.510664,-71.1414999
+Medication for Opioid Use Disorder,North Charles Institute For The Addictions (OTP),(617) 661-5700,"1493 Cambridge Street, Cambridge, MA, 02140",42.3748024,-71.1042804
+Medication for Opioid Use Disorder,Children's Adolescent Use and Addiction Program (ASAP),(617) 355-2727,"2 Brookline Place, Brookline, MA, 02445",42.332117,-71.1156434
+Medication for Opioid Use Disorder,Health Care Resource Centers,(781) 838-6757,"9 FORBES ROAD, WOBURN, MA, 01801",42.4949767,-71.121642
+Medication for Opioid Use Disorder,"Middlesex Recovery, PC",(781) 305-3300,"20 TOWER OFFICE PARK, WOBURN, MA, 01801",42.5016666,-71.1239631
+Medication for Opioid Use Disorder,Cambridge Health Alliance,(857) 523-0053,"119 Windsor Street, Cambridge, MA, 02139",42.3645783,-71.0971001
+Medication for Opioid Use Disorder,Brigham and Women's Health Bridge Clinic,(617) 278-0172,"75 Francis Street 1st  Boston, MA, 02115",42.3360033,-71.1072378
+Medication for Opioid Use Disorder,Faulkner Hospital Addiction Recovery Program,(617) 983-7060,"1153 Centre Street,  Boston, MA, 02130",42.3014851,-71.1282337
+Medication for Opioid Use Disorder,"VA Boston Drug Dependence Treatment Center, Opioid Treatment Program",(857) 364-6265,"150 S Huntington Ave, Boston, MA, 02130",42.3261251,-71.1110873
+Medication for Opioid Use Disorder,"Middlesex Recovery, PC",(781) 303-9936,"2 Courthouse Lane,  Chelmsford, MA, 01824",42.6240974,-71.3590567
+Medication for Opioid Use Disorder,Spectrum Health Systems,(877) 697-3422,"157 Oak St., Westborough, MA, 01581",42.2863671,-71.628145
+Medication for Opioid Use Disorder,Fenway Community Health Center,(617) 927-6281,"1340 Boylston Street, Boston, MA, 02215",42.3441103,-71.0989696
+Medication for Opioid Use Disorder,Cambridge Health Alliance OBAT Program (CHA East Cambridge Care Center),(857) 523-0053,"163 Gore Street, Cambridge, MA, 02141",42.3730593,-71.0854052
+Medication for Opioid Use Disorder,"Clear Path for Veterans, New England",(978) 384-8800,"84 Antietam Street Devens, MA 01434, Ayer, MA, 01434",42.5496064,-71.6148076
+Medication for Opioid Use Disorder,Arbour Counseling Jamaica Plain,(617) 524-1120,"157 GREEN ST., BOSTON, MA, 02130",42.310126,-71.1067408
+Medication for Opioid Use Disorder,GRACE MBUYA,(508) 344-7530,"21 SW CUTOFF, Northborough, MA, 01532",42.3064045,-71.6571147
+Medication for Opioid Use Disorder,"Whittier Street Health Center - Outpatient Counseling (Individual, Group, Family)",(617) 427-1000,"1290 Tremont Street Whittier Street Health Center, Boston, MA, 02120",42.3327216,-71.0919783
+Medication for Opioid Use Disorder,Eleanor Health - Lowell,(866) 499-1718,"325 Chelmsford St, Lowell, MA, 01851",42.6307264,-71.3215282
+Medication for Opioid Use Disorder,"Eleanor Health Professional MA, PLLC - Lowell",(978) 321-0750,"325 Chelmsford St.  Lowell, MA, 01851, Lowell, MA, 01851",42.6307264,-71.3215282
+Medication for Opioid Use Disorder,Dimock Community Health Center,(617) 442-8800,"45 Dimock Street, Roxbury, MA, 02119",42.3202809,-71.0975758
+Medication for Opioid Use Disorder,Newton Wellesley Bridge Clinic,(617) 243-6062,"2000 Washington Street, Blue Building  Newton, MA, 02462",42.3313754,-71.2455017
+Medication for Opioid Use Disorder,West End Clinic Addiction Services (MGH),(617) 724-2480,"100 Blossom Street, Cox-1,  Boston, MA, 02114",42.3636193,-71.0691835
+Medication for Opioid Use Disorder,MGH ARMS Program,(617) 643-4699,"55 Fruit Street, Boston, MA, 02114",42.3632187,-71.0686042
+Medication for Opioid Use Disorder,MGH Bridge Clinic,(617) 643-8281,"55 Fruit Street, Boston, MA, 02114",42.3632187,-71.0686042
+Medication for Opioid Use Disorder,MGH Charlestown Healthcare Center OBOT,(617) 724-8135,"73 High Street, Charlestown, MA, 02129",42.3771503,-71.064309
+Medication for Opioid Use Disorder,"SUPPORT (Substance Use,Prevention,Public,Outreach,Recovery,Treatment)",(617) 587-1905,"1601 Washington Street, Boston, MA, 02118",42.3383369,-71.0747099
+Medication for Opioid Use Disorder,Boston Medical Center,(617) 414-4388,"850 Harrison Avenue, Boston, MA, 02118",42.33502,-71.074882
+Medication for Opioid Use Disorder,Boston Medical Center ABOVE Program - OBOT,(617) 414-6655,"850 Harrison Avenue, Boston, MA, 02118",42.33502,-71.074882
+Medication for Opioid Use Disorder,Project RESPECT - Pregnant & Post-Partum Women,(617) 414-6655,"850 Harrison Avenue, 5th  Boston, MA, 02118",42.33502,-71.074882
+Medication for Opioid Use Disorder,BMC Addiction Psychiatry OBAT,(617) 414-1962,"1 Boston Medical Center Pl, Boston, MA, 02118",42.3355661,-71.0724101
+Medication for Opioid Use Disorder,Lindemann Mental Health Center,(617) 626-8500,"25 Staniford Street, Boston, MA, 02114, Boston, MA, 02114",42.3628086,-71.0635546
+Medication for Opioid Use Disorder,BMC CATALYST Program,(617) 414-6655,"801 Massachusetts Ave 7th  Boston, MA, 02118",42.3330467,-71.0736404
+Medication for Opioid Use Disorder,Boston Medical Center - Office Based Addiction Treatment (OBAT),(617) 414-4123,"801 Massachusetts Avenue, Boston, MA, 02118",42.3330467,-71.0736404
+Medication for Opioid Use Disorder,Health Care for the Homeless,(857) 654-1600,"780 Albany Street, Boston, MA, 02118",42.3336166,-71.0728071
+Medication for Opioid Use Disorder,BMC Family Medicine OBAT,(617) 414-2080,"11 Melnea Cass Blvd., Boston, MA, 02119",42.332039,-71.0735448
+Medication for Opioid Use Disorder,"Lowell Community Health Center Behavioral Health Services - Outpatient Counseling (Individual, Group, Family)",(978) 937-9448,"161 Jackson Street, Lowell, MA, 01852",42.6418133,-71.3115185
+Medication for Opioid Use Disorder,Health Care Resource Centers,(617) 541-3670,"170 MORTON STREET, BOSTON, MA, 02130",42.3000472,-71.1016018
+Medication for Opioid Use Disorder,MGH Everett Family Care,(617) 394-7500,"19 Norwood Street, Everett, MA, 02149",42.4075666,-71.0565089
+Medication for Opioid Use Disorder,Familias Unidas Outpatient Clinic,(617) 684-6209,"245 Eustis Street, Boston, MA, 02119",42.3267786,-71.0751028
+Medication for Opioid Use Disorder,"Danvers Treatment Center, Opioid Treatment Program Medical Unit",(978) 259-7000,"365 EAST STREET, SAUNDERS BUILDING D1C1, TEWKSBURY, MA, 01876",42.6116532,-71.2084272
+Medication for Opioid Use Disorder,Health Care for the Homeless - St. Francis,(617) 542-4704,"39 Boylston St,  Boston, MA, 02111",42.3525109,-71.063473
+Medication for Opioid Use Disorder,Health Care Resource Centers HCRC,(617) 271-2193,"23 BRADSTON STREET, BOSTON, MA, 02118",42.3330995,-71.0705822
+Medication for Opioid Use Disorder,New Health - Charlestown,(857) 238-1100,"15 Tufts Street, Charlestown, MA, 02129",42.3778685,-71.0567876
+Medication for Opioid Use Disorder,North End Waterfront Health- Bunker Hill Housing Development,(857) 238-1105,"15 Tufts Street, Charlestown, MA, 02129",42.3778685,-71.0567876
+Medication for Opioid Use Disorder,"Codman Square Health Center - Outpatient Counseling (Individual, Group, Family)",(617) 825-9660,"637 Washington Street, Boston, MA, 02124",42.289369,-71.0719691
+Medication for Opioid Use Disorder,Bay Cove Treatment Center,(617) 371-3030,"66 CANAL STREET 1ST AND 4TH  BOSTON, MA, 02114",42.3636637,-71.059666
+Medication for Opioid Use Disorder,Northeast Family Services,(781) 769-2655,"55 PROVIDENCE HIGHWAY, NORWOOD, MA, 02062",42.2113595,-71.1856014
+Medication for Opioid Use Disorder,Trinity Care Associates,(978) 455-0756,"100 Merrimack Street, Lowell, MA, 01852",42.6454883,-71.3093893
+Medication for Opioid Use Disorder,Boston Comprehensive Treatment Center,(617) 849-9572,"99 Topeka St, Boston, MA, 02118",42.3335633,-71.0664439
+Medication for Opioid Use Disorder,Meta Addiction Treatment,(844) 909-2560,"55 Concord Street, North Reading, MA, 01864",42.5604389,-71.1239575
+Medication for Opioid Use Disorder,Habit Opco - Boston,(339) 228-9167,"99 TOPEKA STREET, BOSTON, MA, 02118",42.3335633,-71.0664439
+Medication for Opioid Use Disorder,Eliot Center at Everett,(781) 388-6200,"173 Chelsea Street, Everett, MA, 02149, Everett, MA, 02149",42.40395,-71.0488018
+Medication for Opioid Use Disorder,North End Waterfront Health,(617) 643-8080,"332 Hanover Street, Boston, MA, 02113",42.3648007,-71.0537232
+Medication for Opioid Use Disorder,Uphams Corner Health Center Addiction Services,(617) 287-8000,"415 Columbia Road, Boston, MA, 02125",42.3118214,-71.0687613
+Medication for Opioid Use Disorder,MGH Community Health Associates - Chelsea Healthcare Center,(617) 884-8300,"151 Everett Avenue, Chelsea, MA, 02150",42.3961678,-71.0389809
+Medication for Opioid Use Disorder,Mattapan Community Health Center,(617) 296-0061,"1575 Blue Hille Ave., Boston, MA, 02126",42.2697831,-71.0940152
+Medication for Opioid Use Disorder,"Gavin Foundation, Center for Recovery Services",(617) 268-5000,"210 Old Colony Avenue, Boston, MA, 02127",42.3330387,-71.0537
+Medication for Opioid Use Disorder,Noddles Island Multi-Service Agency - Chelsea Counseling Center - Day Treatment,(617) 912-7900,"301 Broadway, Chelsea, MA, 02150",42.3910401,-71.0366372
+Medication for Opioid Use Disorder,East Boston Neighborhood Health Center,(617) 568-6260,"20 Maverick Square, East Boston, MA, 02128",42.3697056,-71.0396552
+Medication for Opioid Use Disorder,Noddles Island Multi-Service Agency - Counseling / Outpatient Services for Youth,(617) 569-3189,"14 Porter Street, Boston, MA, 02128",42.3748594,-71.0380069
+Medication for Opioid Use Disorder,East Boston Neighborhood Health Center- Addiction Services,(617) 569-5800,"10 Gove Street, Boston, MA, 02128, Boston, MA, 02128",42.3723523,-71.0383533
+Medication for Opioid Use Disorder,Catholic Charities Family Counseling and Guidance Center,(617) 464-8500,"275 West Broadway, Boston, MA, 02127, Boston, MA, 02127",42.3387947,-71.051485
+Medication for Opioid Use Disorder,South Boston Community Health Center,(617) 269-7500,"409 West Broadway, South Boston, MA, 02127",42.3368405,-71.0482446
+Medication for Opioid Use Disorder,Riverside Outpatient Center at Norwood,(781) 769-8670,"190 LENOX ST, NORWOOD, MA, 02062",42.189138,-71.1983685
+Medication for Opioid Use Disorder,DotHouse Health,(617) 288-3230,"1353 Dorchester Avenue, Dorchester, MA, 02122",42.3044999,-71.0593874
+Medication for Opioid Use Disorder,"Geiger Gibson Community Health Center - Outpatient Counseling (Individual, Group, Family)",(617) 288-1140,"250 Mount Vernon Street, Boston, MA, 02125",42.3194686,-71.0461123
+Medication for Opioid Use Disorder,Health Care Resource Centers,(617) 889-8779,"175 CRESCENT AVENUE, CHELSEA, MA, 02151",42.3962242,-71.0233229
+Medication for Opioid Use Disorder,Spectrum Health Systems,(508) 634-1877,"200 EAST MAIN STREET, MILFORD, MA, 01757",42.1510093,-71.4983687
+Medication for Opioid Use Disorder,Cambridge Health Alliance - Revere,(781) 485-8222,"454 Broadway, 3rd  Revere, MA, 02151",42.4113718,-71.0117964
+Medication for Opioid Use Disorder,Riverside Outpatient Center at Lynnfield,(781) 246-2010,"6 KIMBALL LANE  LYNNFIELD, MA, 01940",42.5095667,-71.0342606
+Medication for Opioid Use Disorder,Harbor Health Services - Daniel Driscoll Neponset Community Health Center,(617) 282-3200,"398 Neponset Avenue, Boston, MA, 02122",42.286795,-71.044066
+Medication for Opioid Use Disorder,"New England Medical Group, LLC",(833) 311-0407,"210 Whiting street  Hingham, MA 02043, Milford, MA, 01757",42.1811614,-70.902187
+Medication for Opioid Use Disorder,MGH Community Health Associates - Revere Healthcare Center,(781) 485-6000,"300 Ocean Avenue, Revere, MA, 02151",42.4079497,-70.9922506
+Medication for Opioid Use Disorder,Manet Community Health Center- North Quincy,(857) 403-0815,"110 West Squantum Street, North Quincy, MA, 02171",42.2726013,-71.0308483
+Medication for Opioid Use Disorder,CleanSlate - Leominster OBOT,(978) 227-1046,"165 MILL STREET  LEOMINSTER, MA, 01453",42.5321021,-71.7476154
+Medication for Opioid Use Disorder,Community Healthlink - Leominster,(978) 534-6116,"40 Spruce Street Second  Leominster, MA, 01453",42.5264253,-71.7552842
+Medication for Opioid Use Disorder,"Spectrum Health Systems, Inc",(978) 466-3820,"40 SPRUCE ST, LEOMINSTER, MA, 01453",42.5264253,-71.7552842
+Medication for Opioid Use Disorder,Edward M. Kennedy Community Health Center - OBAT PROGRAM,(508) 595-1150,"19 Tacoma St., Worcester, MA, 01605",42.3023409,-71.7660941
+Medication for Opioid Use Disorder,Spectrum Health Systems,(508) 634-1877,"585 LINCOLN STREET, WORCESTER, MA, 01608",42.2963086,-71.7688808
+Medication for Opioid Use Disorder,MISSION - Co-Occurring Mental Health & SUD Treatments (Study seeking participants),(774) 455-4357,"419 Belmont Street, Shaw Building, Worcester, MA, 01604",42.2746074,-71.7593433
+Medication for Opioid Use Disorder,Bay State Community Services Impact Quincy - Prevention Programs,(617) 471-8400,"1120 HANCOCK STREET, QUINCY, MA, 02169",42.2544761,-71.0055279
+Medication for Opioid Use Disorder,Health Care Resource Centers,(978) 535-9190,"172 NEWBURY STREET, PEABODY, MA, 01960",42.5411077,-70.9872343
+Medication for Opioid Use Disorder,"New Horizons Medical, P.C",(617) 481-6949,"500 CONGRESS STREET  QUINCY, MA, 02169",42.2346612,-71.0162075
+Medication for Opioid Use Disorder,VOA Behavioral Health Services,(617) 770-9690,"1419 HANCOCK STREET STE. 202, QUINCY, MA, 02169",42.2492523,-71.0027694
+Medication for Opioid Use Disorder,Eliot Center at Lynn,(781) 581-4404,"95 Pleasant Street, Lynn, MA, 01901, Lynn, MA, 01901",42.4612499,-70.9513012
+Medication for Opioid Use Disorder,"New Horizons Medical, P.C",(781) 584-4645,"222 BLOSSOM STREET, LYNN, MA, 01905",42.4566633,-70.9499822
+Medication for Opioid Use Disorder,Spectrum Health Systems,(781) 233-1095,"184 BROADWAY ST, SAUGUS, MA, 01906",42.490016,-70.9583571
+Medication for Opioid Use Disorder,Elm Tree Clinic - Quincy,(617) 308-3343,"21 School Street,, Quincy, MA, 02169",42.2440216,-71.0011973
+Medication for Opioid Use Disorder,Buprenorphine / Suboxone / Office-based Addiction Treatment (OBAT),(978) 627-4182,"155 AIRPORT ROAD, FITCHBURG, MA, 01420",42.5647348,-71.7739384
+Medication for Opioid Use Disorder,CleanSlate - Lynn OBOT,(781) 731-6804,"280 UNION STREET  LYNN, MA, 01901",42.4649639,-70.94325
+Medication for Opioid Use Disorder,Lynn Community Health Center Bridge Clinic,(781) 581-3900,"269 Union Street, Lynn, MA, 01901",42.4650471,-70.9438909
+Medication for Opioid Use Disorder,"SaVida Health, PC",(508) 890-0990,"121 LINCOLN STREET, WORCESTER, MA, 01605",42.2772069,-71.7946363
+Medication for Opioid Use Disorder,Greater Lawrence Family Health Center Mobile Health Unit,(978) 686-0090,"100 Water Street, Lawrence, MA, 01841",42.7003379,-71.1698307
+Medication for Opioid Use Disorder,"Rockland Recovery Treatment Centers, LLC",(855) 732-4842,"400A Franklin Street  Braintree, MA, 02184",42.2108919,-71.0191652
+Medication for Opioid Use Disorder,Greater Lawrence Family Health Center Mobile Health Unit,(978) 686-0090,"85 Baystate Road, Lawrence, MA, 01841",42.7007251,-71.1689417
+Medication for Opioid Use Disorder,Greater Lawrence Family Health Center - West,(978) 689-2400,"700 Essex Street, Lawrence, MA, 01841",42.7018808,-71.1720515
+Medication for Opioid Use Disorder,Buprenorphine / Suboxone / Office-based Addiction Treatment (OBAT),(978) 297-6179,"10 EMBANKMENT STREET, LAWRENCE, MA, 01841",42.7027201,-71.1689256
+Medication for Opioid Use Disorder,"Eleanor Health Professional MA, PLCC",(617) 785-5191,"108 GROVE ST  WORCESTER, MA, 01605",42.2765782,-71.8012966
+Medication for Opioid Use Disorder,"Blue Hills Recovery, LLC.",(508) 403-7877,"474 Grove Street, Worcester, MA, 01605, Worcester, MA, 01605",42.289226,-71.8099507
+Medication for Opioid Use Disorder,Spring Hill Recovery Center,(888) 343-0762,"604 Washington Street, Quincy, MA, 02169",42.2469411,-70.9764362
+Medication for Opioid Use Disorder,Habit Opco - Brockton Mobile Unit,(339) 228-9167,"460 Quincy Ave. Trailer  Quincy, MA, 02169",42.2385863,-70.9800815
+Medication for Opioid Use Disorder,Behavioral Health Network (BHN) Lawrence,(978) 795-0054,"290 Merrimack Street, Lawrence, MA, 01843",42.7035133,-71.1466944
+Medication for Opioid Use Disorder,Renewal Integrative Psychotherapies LLC,(774) 530-6363,"90 Madison Street,  Worcester, MA, 01608, Worcester, MA, 01608",42.2555884,-71.8025529
+Medication for Opioid Use Disorder,Manet Community Health Center- Snug Harbor,(617) 483-5799,"9 Bicknell Street, Quincy, MA, 02169",42.2522173,-70.9658639
+Medication for Opioid Use Disorder,CleanSlate - Lawrence OBOT,(978) 802-7331,"360 MERRIMACK ST, LAWRENCE, MA, 01089",42.7045377,-71.1429949
+Medication for Opioid Use Disorder,Manet Community Health Center- Quincy (Hough's Neck),(617) 471-8683,"1193 Sea Street, Quincy, MA, 02169",42.2688116,-70.9525902
+Medication for Opioid Use Disorder,"Spectrum Health Systems, Inc",(508) 865-2085,"50 HOWE AVE, MILLBURY, MA, 01527",42.2000711,-71.7558651
+Medication for Opioid Use Disorder,Greater Lawrence Family Health Center - North,(978) 685-1770,"150 Park Street, Lawrence, MA, 01841",42.715907,-71.1662496
+Medication for Opioid Use Disorder,Lawrence Family Health Center Bridge Clinic,(978) 683-4000,"1 General Street, Lawrence, MA, 01841",42.7097587,-71.1507002
+Medication for Opioid Use Disorder,Community Health Connections - Fitchburg,(978) 878-8100,"130 Water Street, Fitchburg, MA, 01420",42.580639,-71.7939413
+Medication for Opioid Use Disorder,Spectrum Health Systems,(508) 755-4372,"105 MERRICK STREET, WORCESTER, MA, 01609",42.2665177,-71.8126262
+Medication for Opioid Use Disorder,Spectrum Health Systems,(774) 314-4761,"105 MERRICK STREET, WORCESTER, MA, 01609",42.2665177,-71.8126262
+Medication for Opioid Use Disorder,Greater Lawrence Family Health Center,(978) 686-0900,"34 Haverhill Street, Lawrence, MA, 01841",42.7118582,-71.1519933
+Medication for Opioid Use Disorder,"Danvers Treatment Center, Opioid Treatment Program",(800) 323-2224,"111 MIDDLETON ROAD OTP, DANVERS, MA, 01923",42.5868892,-70.9766138
+Medication for Opioid Use Disorder,Lahey Health Behavioral Services,(978) 304-8016,"111 Middleton Road, Danvers, MA, 01923",42.5868892,-70.9766138
+Medication for Opioid Use Disorder,Community Healthlink - D.U.I. 1st Offender,(508) 860-1200,"1st Offender
+      12 Queen Street, Worcester, MA, 01610",42.2597825,-71.8138
+Medication for Opioid Use Disorder,"New Horizons Medical, P.C",(978) 488-0889,"285 Main Street, Fitchburg, MA, 01420",42.5821628,-71.796097
+Medication for Opioid Use Disorder,Community Healthlink - Worcester,(800) 977-5555,"72 Jacques Avenue, Worcester, MA, 01610",42.2598298,-71.8145075
+Medication for Opioid Use Disorder,"Topsail Addiction Treatment, Inc.",(978) 475-0002,"231 Sutton St., Andover, MA, 01845",42.7066318,-71.1297095
+Medication for Opioid Use Disorder,Family Health Center of Worcester,(508) 860-7700,"26 Queen Street, Worcester, MA, 01609",42.2591769,-71.8146751
+Medication for Opioid Use Disorder,Family Health Center of Worcester - OBAT,(508) 860-7823,"26 Queen Street, Worcester, MA, 01610",42.2591769,-71.8146751
+Medication for Opioid Use Disorder,"The Counseling Center at Millbury, LLC",(774) 708-9313,"29 North Main Street, Millbury, MA, 01527",42.1931571,-71.7616361
+Medication for Opioid Use Disorder,Spectrum Health Systems,(774) 314-4761,"475 Pleasant Street, Worcester, MA, 01609",42.2636484,-71.8181134
+Medication for Opioid Use Disorder,Peabody Family Health Center,(978) 532-4903,"89 Foster Street, Peabody, MA, 01960",42.5229307,-70.9304605
+Medication for Opioid Use Disorder,"Chapters Recovery Center, Inc.",(855) 626-0800,"85 Constitution Lane 200A, Danvers, MA, 01923, Danvers, MA, 01923",42.5553474,-70.9375381
+Medication for Opioid Use Disorder,CleanSlate - Worcester OBOT,(413) 341-1787,"411 CHANDLER ST., WORCESTER, MA, 01602",42.2639437,-71.8327659
+Medication for Opioid Use Disorder,CleanSlate - Fitchburg OBOT,(413) 584-2173,"275 Nichols Road, Simmons Wing, Fitchburg, MA, 01420",42.5977564,-71.8048989
+Medication for Opioid Use Disorder,Salem Hospital Bridge Clinic,(978) 354-2050,"55 Highland Ave, Salem, MA, 01970",42.5127306,-70.9056706
+Medication for Opioid Use Disorder,"Community Health Connections, Inc.",(978) 878-8100,"326 Nichols Road, Fitchburg, MA, 01420",42.5973602,-71.8076959
+Medication for Opioid Use Disorder,"Middlesex Recovery, PC",(781) 303-9936,"966 Park Street  Stoughton, MA, 02072",42.1116024,-71.0723869
+Medication for Opioid Use Disorder,"Gosnold Counseling Center - Outpatient Counseling (Individual, Group, Family)",(508) 584-5190,"909 Sumner Street, Stoughton, MA, 02072",42.0998396,-71.0819644
+Medication for Opioid Use Disorder,Salem Family Health Center,(978) 744-8388,"47 Congress St, Salem, MA, 01970",42.5176762,-70.8890749
+Medication for Opioid Use Disorder,Spectrum Health Systems Weymouth OTP,(877) 697-3422,"178 Winter Street, Weymouth, MA, 02188",42.2009394,-70.9488009
+Medication for Opioid Use Disorder,Spectrum Outpatient Weymouth,(781) 331-0690,"178 Winter St, Weymouth, MA, 02188",42.2009394,-70.9488009
+Medication for Opioid Use Disorder,Washburn House - Outpatient Services,(508) 834-8599,"1329 Main Street, Worcester, MA, 01603",42.2415683,-71.8482081
+Medication for Opioid Use Disorder,Square Medical Group,(617) 916-5069,"884 Washington Street  Weymouth, MA, 02189, Weymouth, MA, 02189",42.2005628,-70.9409816
+Medication for Opioid Use Disorder,Perinatal Behavioral Health Program,(781) 624-5065,"797 Main Street, Weymouth, MA, 02190, Weymouth, MA, 02190",42.1781283,-70.9559682
+Medication for Opioid Use Disorder,South Shore Hospital Bridge Clinic,(781) 624-5065,"797 Main Street,  Weymouth, MA, 02190",42.1781283,-70.9559682
+Medication for Opioid Use Disorder,Recovery Centers of America at Westminster,(888) 652-1819,"9 Village Inn Road, Westminster, MA, 01473, Westminster, MA, 01473",42.5430172,-71.8783136
+Medication for Opioid Use Disorder,East Point Recovery Centers,(855) 887-6237,"950 Cummings Center  Beverly, MA, 01915",42.557701,-70.8880462
+Medication for Opioid Use Disorder,Manet Community Health Center- Hull,(781) 925-4550,"180 George Washington Boulevard, Hull, MA, 02045",42.2630668,-70.8605871
+Medication for Opioid Use Disorder,Brockton Neighborhood Health Center,(508) 559-6699,"63 Main Street, Brockton, MA, 02130",42.0845166,-71.0201542
+Medication for Opioid Use Disorder,Community Care In-Reach,(508) 233-0573,"63 Main Street, Brockton, MA, 02301",42.0845166,-71.0201542
+Medication for Opioid Use Disorder,"New England Medical Group, LLC",(833) 311-0407,"210 Whiting Street,  Hingham, MA, 02043",42.1811614,-70.902187
+Medication for Opioid Use Disorder,Luminosity Behavioral Health Services,(781) 344-0102,"157 Main Street, Brockton, MA, 02301, Brockton, MA, 02301",42.0824064,-71.020356
+Medication for Opioid Use Disorder,Buprenorphine / Suboxone / Office-based Addiction Treatment (OBAT),(508) 502-7584,"180 CENTRE STREET, BROCKTON, MA, 02302",42.0843627,-71.013847
+Medication for Opioid Use Disorder,Serenity At Summit New England,(508) 882-2734,"61 Brown St , Haverhill, MA, 01830",42.7641862,-71.0463414
+Medication for Opioid Use Disorder,"New Horizons Medical, P.C",(978) 361-9993,"62 BROWN ST.,  HAVERHILL, MA, 01830",42.7650514,-71.0449482
+Medication for Opioid Use Disorder,Signature Healthcare - OBAT,(508) 894-0575,"360 Brockton Avenue, Abington, MA, 02351",42.1015144,-70.9572334
+Medication for Opioid Use Disorder,East Coast Recovery,(781) 400-8018,"215 CHIEF JUSTICE CUSHING HWY, COHASSET, MA, 02025",42.2407882,-70.8304826
+Medication for Opioid Use Disorder,New England Behavioral Health Services Inc,(508) 857-0239,"1351 Main St, Brockton, MA, 02301, Brockton, MA, 02301",42.0586749,-71.0142866
+Medication for Opioid Use Disorder,High Point Opioid Treatment Program,(508) 638-6022,"30 MEADOWBROOK ROAD, BROCKTON, MA, 02301",42.0571907,-71.0086213
+Medication for Opioid Use Disorder,Haverhill Family Health Center,(978) 686-0090,"755 Main Street, Haverhill, MA, 01830",42.7976296,-71.0876359
+Medication for Opioid Use Disorder,Spectrum Health Systems,(978) 373-4985,"100 PLAISTOW RD  HAVERHILL, MA, 01830",42.8146654,-71.1044169
+Medication for Opioid Use Disorder,Arbour Elder Services,(781) 871-6550,"384 Washington Street, Norwell, MA, 02061",42.158636,-70.8602239
+Medication for Opioid Use Disorder,"Middlesex Recovery, PC",(781) 303-9936,"85 East Main Street  Norton, MA, 02766",41.971692,-71.1768842
+Medication for Opioid Use Disorder,Health Care Resource Centers,(508) 342-8041,"23 NORTH MAIN STREET, ATTLEBORO, MA, 02703",41.9451772,-71.2847761
+Medication for Opioid Use Disorder,Behavioral Health Network (BHN) Attleboro,(978) 435-2234,"7 RAILROAD AVENUE, ATTLEBORO, MA, 02703",41.944368,-71.2833122
+Medication for Opioid Use Disorder,Sturdy Memorial/Brightview,(844) 265-8661,"7B Railroad Ave, Attleboro, MA, 02703",41.9441849,-71.2833082
+Medication for Opioid Use Disorder,Community Health Connections - Gardner,(978) 878-8100,"175 Connors Street, Gardner, MA, 01440",42.5730699,-71.9970809
+Medication for Opioid Use Disorder,Harrington Memorial Hospital Addiction Immediate Care Clinic,(508) 949-8981,"340 THOMPSON RD, WEBSTER, MA, 01570",42.0274605,-71.8512291
+Medication for Opioid Use Disorder,Barre Family Health Center,(978) 355-9313,"151 Worcester Road, Barre, MA, 01005",42.4078959,-72.0910249
+Medication for Opioid Use Disorder,UMass Memorial Medical Center,(855) 862-7763,"151 Worcester Road, Barre, MA, 01005",42.4078959,-72.0910249
+Medication for Opioid Use Disorder,Center for Behavioral Health and Addiction Treatment Services,(978) 834-6583,"110 Haverhill Road, Amesbury, MA, 01913",42.8423465,-70.9616456
+Medication for Opioid Use Disorder,Clearbrook Treatment Center Massachusetts LLC,(570) 405-9934,"83 Hospital Road, Baldwinville, MA 01436, Templeton, MA, 01436",42.6138034,-72.0610501
+Medication for Opioid Use Disorder,"Steward Morton Hospital, dba MorCAP",(508) 828-7000,"88 Washington Street, Taunton, MA, 02780, Taunton, MA, 02780",41.9051446,-71.0952279
+Medication for Opioid Use Disorder,"The Woman At The Well, Inc.",(423) 745-0010,"19 Court Street, Taunton, MA, 02780",41.9027955,-71.0951955
+Medication for Opioid Use Disorder,Manet Community Health Center- Taunton,(508) 822-5500,"1 Washington Street, Taunton, MA, 02780",41.9006623,-71.098632
+Medication for Opioid Use Disorder,Habit Opco - Taunton,(508) 880-1598,"66 MAIN STREET, TAUNTON, MA, 02780",41.9019234,-71.0899645
+Medication for Opioid Use Disorder,Gloucester Opioid Treatment Program,(978) 283-0296,"298 WASHINGTON STREET, GLOUCESTER, MA, 01930",42.6252065,-70.6806143
+Medication for Opioid Use Disorder,Lahey Health Behavioral Services,(978) 283-0296,"298 Washington Street, Gloucester, MA, 01930",42.6252065,-70.6806143
+Medication for Opioid Use Disorder,"Middlesex Recovery, PC",(781) 303-9936,"61 Prospect Street, Gloucester, MA, 01930",42.6152413,-70.6636777
+Medication for Opioid Use Disorder,Harrington Recovery Services - Southbridge,(508) 765-2207,"176 MAIN STREET, SOUTHBRIDGE, MA, 01550",42.0742991,-72.0310828
+Medication for Opioid Use Disorder,Spectrum Health Systems,(508) 765-5940,"176 MAIN STREET, SOUTHBRIDGE, MA, 01550",42.0742991,-72.0310828
+Medication for Opioid Use Disorder,McLean at Naukeag - Outpatient,(978) 541-6913,"211 North Main Street, Petersham, MA, 01430",42.5165866,-72.1835029
+Medication for Opioid Use Disorder,Behavioral Health Network Mobile Methadone Program,(413) 272-1333,"75 Main Street, Ware, MA, 01082",42.2605813,-72.2411169
+Medication for Opioid Use Disorder,CleanSlate - Ware OBOT,(413) 341-1787,"83 SOUTH STREET,  WARE, MA, 01082",42.2536024,-72.2412261
+Medication for Opioid Use Disorder,CleanSlate - Athol OBOT,(978) 248-0442,"201 SOUTH MAIN STREET  ATHOL, MA, 01331",42.5913444,-72.2424619
+Medication for Opioid Use Disorder,Harbor Community Health Center- Plymouth,(508) 778-5470,"10 Cordage Park Circle,  Plymouth, MA, 02360",41.9788845,-70.6880541
+Medication for Opioid Use Disorder,Behavioral Health Network - Orange OTP,(978) 674-7240,"119 New Athol Road, Orange, MA, 01364",42.5846563,-72.2637326
+Medication for Opioid Use Disorder,High Point Plymouth OTP,(800) 233-4478,"61 INDUSTRIAL PARK ROAD, PLYMOUTH, MA, 02360",41.9577468,-70.704463
+Medication for Opioid Use Disorder,CleanSlate - Plymouth OBOT,(508) 503-5020,"61 INDUSTRIAL PARK DRIVE FIRST  PLYMOUTH, MA, 02360",41.9577468,-70.704463
+Medication for Opioid Use Disorder,Family Health Care Center at SSTAR,(508) 679-5222,"400 Stanley Street, Fall River, MA, 02720",41.714192,-71.134829
+Medication for Opioid Use Disorder,SSTAR -  Buprenorphine / Suboxone / Office Based Treatment,(508) 679-5222,"400 Stanley Street, Fall River, MA, 02720",41.714192,-71.134829
+Medication for Opioid Use Disorder,Buprenorphine / Suboxone / Office-based Addiction Treatment (OBAT),(508) 593-9435,"22 FRONT STREET, FALL RIVER, MA, 02721",41.6971527,-71.1468375
+Medication for Opioid Use Disorder,SSTAR,(508) 679-3296,"1010 South Main Street, Fall River, MA, 02724",41.6907377,-71.1651585
+Medication for Opioid Use Disorder,Sstar/Lifeline,(774) 627-2229,"1010 SOUTH MAIN STREET, FALL RIVER, MA, 02724",41.6907377,-71.1651585
+Medication for Opioid Use Disorder,Griswold Center - Baystate Wing Hospital,(413) 370-8517,"40 Wright Street, Palmer, MA, 01069",42.1690378,-72.3414459
+Medication for Opioid Use Disorder,CleanSlate- Belchertown OBOT,(413) 725-4214,"211 State Street , Belchertown , MA, 01007",42.2671544,-72.4218711
+Medication for Opioid Use Disorder,CleanSlate - Wareham OBOT,(413) 584-2173,"40 CHURCH AVENUE  WAREHAM, MA, 02571",41.7544108,-70.7156336
+Medication for Opioid Use Disorder,Health Care Resource Centers,(508) 979-1122,"8 KILBURN STREET, NEW BEDFORD, MA, 02740",41.6528137,-70.9213823
+Medication for Opioid Use Disorder,High Point OTP - New Bedford,(508) 992-1500,"68 NORTH FRONT STREET, NEW BEDFORD, MA, 02740",41.6509145,-70.9239506
+Medication for Opioid Use Disorder,High Point Treatment START,(508) 717-0550,"68 North Front Street, New Bedford, MA, 02740",41.6509145,-70.9239506
+Medication for Opioid Use Disorder,Greater New Bedford Community Health Center,(508) 992-6553,"874 Purchase Street, New Bedford, MA, 02740",41.6362235,-70.9257469
+Medication for Opioid Use Disorder,SOAR,(508) 984-4155,"5 Dover Street, New Bedford, MA, 02740",41.6360063,-70.9248707
+Medication for Opioid Use Disorder,CleanSlate - New Bedford OBOT,(774) 202-2264,"92 GRAPE STREET, NEW BEDFORD, MA, 02740",41.6240604,-70.9385238
+Medication for Opioid Use Disorder,Buprenorphine / Suboxone / Office-based Addiction Treatment (OBAT),(508) 342-5973,"3088-A Cranberry Highway, Wareham, MA, 02538",41.7563379,-70.6460708
+Medication for Opioid Use Disorder,Everest Recovery Center,(413) 268-6522,"14 Chestnut Place,  Ludlow, MA, 01056",42.1575964,-72.4811254
+Medication for Opioid Use Disorder,Gifford Street Comprehensive Treatment Center,(508) 318-4434,"34 Gifford Street, New Bedford, MA, 02744",41.6178378,-70.9189667
+Medication for Opioid Use Disorder,"SaVida Health, PC",(413) 259-8175,"489 Bernardston Road, Greenfield, MA, 01301",42.608746,-72.5856398
+Medication for Opioid Use Disorder,ServiceNet Outpatient Programs,(413) 584-6855,"55 FEDERAL STREET  GREENFIELD, MA, 01301",42.5890348,-72.5981706
+Medication for Opioid Use Disorder,Behavioral Health Network -  Greenfield OTP,(413) 223-5072,"21 KENWOOD ST, GREENFIELD, MA, 01031",42.6010637,-72.5954351
+Medication for Opioid Use Disorder,Community Health Center of Cape Cod,(508) 477-7090,"90 Route 6A  Sandwich, MA, 02563",41.7645828,-70.5017571
+Medication for Opioid Use Disorder,Health Care Resource Centers,(413) 774-3321,"50 MILES STREET, GREENFIELD, MA, 01301",42.5864928,-72.6026071
+Medication for Opioid Use Disorder,CleanSlate - Greenfield OBOT,(413) 774-4313,"1 ARCH PLACE THIRD  GREENFIELD, MA, 01301",42.5913359,-72.6041381
+Medication for Opioid Use Disorder,CHD Outpatient Behavioral Health Services,(413) 774-6252,"102 Main Street, Greenfield, MA, 01310, Greenfield, MA, 01310",42.5878394,-72.6054085
+Medication for Opioid Use Disorder,Community Health Center of Franklin County,(413) 325-8500,"102 Main Street, Greenfield, MA, 01301",42.5878394,-72.6054085
+Medication for Opioid Use Disorder,Health Care Resource Centers,(413) 584-2404,"441 PLEASANT STREET, NORTHAMPTON, MA, 01060",42.3128064,-72.6250236
+Medication for Opioid Use Disorder,Holyoke Health Center,(413) 420-2200,"230 Maple Street, Holyoke, MA, 01040",42.2071888,-72.6083931
+Medication for Opioid Use Disorder,Holyoke Medical Center,(413) 420-1730,"230 Maple Street, Holyoke, MA, 01040",42.2071888,-72.6083931
+Medication for Opioid Use Disorder,Behavioral Health Network - Holyoke OTP,(413) 532-0389,"235 MAPLE STREET, HOLYOKE, MA, 01040",42.2072615,-72.6089582
+Medication for Opioid Use Disorder,CleanSlate- Holyoke OBOT,(413) 650-0590,"306 RACE STREET  HOLYOKE, MA, 01040",42.2004425,-72.6074938
+Medication for Opioid Use Disorder,Best Life Outpatient - Mental Health Association,(814) 642-9355,"153 Magazine Street, Springfield, MA, 01109",42.1128553,-72.5776383
+Medication for Opioid Use Disorder,BHN Springfield Center,(413) 301-9355,"5 Madison Ave, Springfield, MA, 01105",42.0999156,-72.5748025
+Medication for Opioid Use Disorder,Chicopee Health Center - Center for Recovery and Support,(413) 420-1730,"505 Front Street, Chicopee, MA, 01020",42.1487126,-72.5975781
+Medication for Opioid Use Disorder,Center for Human Development - Springfield START,(413) 276-5335,"367 Pine Street, Springfield, MA, 01105",42.0940448,-72.5742185
+Medication for Opioid Use Disorder,CHD Outpatient Behavioral Health Services,(413) 737-1426,"367 Pine Street, Springfield, Springfield, MA, 01105",42.0940448,-72.5742185
+Medication for Opioid Use Disorder,Behavioral Health Network - Springfield OTP,(413) 272-1333,"395 LIBERTY ST, SPRINGFIELD, MA, 01104",42.1134475,-72.5860148
+Medication for Opioid Use Disorder,OnCallHealthy Living Program - OBOT,(413) 301-7759,"568 MAIN ST, SPRINGFIELD, MA, 01151",42.1558166,-72.4848298
+Medication for Opioid Use Disorder,Caring Health Center (OBAT),(413) 739-1100,"1049 Main Street, Springfield, MA, 01103",42.0998082,-72.5848564
+Medication for Opioid Use Disorder,Springfield Comprehensive Treatment Center,(413) 650-1311,"511 EAST COLUMBUS AVE., SPRINGFIELD, MA, 01105",42.0887191,-72.5800861
+Medication for Opioid Use Disorder,OnCallHealthy Living Program - OBOT,(413) 584-7425,"51 LOCUST STREET, NORTHAMPTON, MA, 01060",42.3320418,-72.6539678
+Medication for Opioid Use Disorder,CleanSlate - Springfield OBOT,(413) 341-1887,"1985 MAIN ST, SPRINGFIELD, MA, 01103",42.1072373,-72.5973525
+Medication for Opioid Use Disorder,Health Care Resource Centers,(413) 746-0051,"628 CENTER STREET, CHICOPEE, MA, 01013",42.1327497,-72.6132976
+Medication for Opioid Use Disorder,Provincetown Community Health Center,(508) 487-9395,"49 Harry Kemp Way, Provincetown, MA, 02657",42.0580976,-70.1836273
+Medication for Opioid Use Disorder,Baystate Medical Center,(413) 794-0000,"380 Plainfield Street, Springfield, MA, 01107",42.1172344,-72.6144242
+Medication for Opioid Use Disorder,Brightwood Health Center/ Centro de Salud,(413) 794-4458,"380 Plainfield Street, Springfield, MA, 01107",42.1172344,-72.6144242
+Medication for Opioid Use Disorder,"MiraVista - Outpatient Counseling (Individual, Group, Family)",(413) 264-3042,"1233 Main Street, Holyoke, MA, 01040",42.1659064,-72.633996
+Medication for Opioid Use Disorder,CleanSlate - West Springfield OBOT,(413) 788-0100,"900 MEMORIAL AVE, WEST SPRINGFIELD, MA, 01089",42.095435,-72.6127538
+Medication for Opioid Use Disorder,"SaVida Health, PC",(413) 732-0040,"50 UNION ST., WEST SPRINGFIELD, MA, 01089",42.1042316,-72.6197523
+Medication for Opioid Use Disorder,Center for Human Development - West Springfield,(844) 243-4357,"246 Park St., West Springfield, MA, 01089",42.1041511,-72.623387
+Medication for Opioid Use Disorder,Compass Recovery,(413) 861-0680,"975A SPRINGFIELD STREET, AGAWAM, MA, 01030",42.0702953,-72.6621591
+Medication for Opioid Use Disorder,"Recovering Champions, Inc.",(844) 888-5391,"279 Brick Kiln Road, Falmouth, MA, 02536",41.5829475,-70.5967432
+Medication for Opioid Use Disorder,CleanSlate - Falmouth OBOT,(413) 584-2173,"15 CARLSON LANE  FALMOUTH, MA, 02540",41.5702335,-70.6202105
+Medication for Opioid Use Disorder,Health Care Resource Centers,(413) 568-6600,"130 SOUTHAMPTON RD, WESTFIELD, MA, 01085",42.1454853,-72.7320364
+Medication for Opioid Use Disorder,"Foundations, LLC",(508) 326-6006,"800 Falmouth Road  Mashpee, MA, 02649",41.604241,-70.4949788
+Medication for Opioid Use Disorder,"Gosnold Counseling Center - Outpatient Counseling (Individual, Group, Family)",(800) 444-1554,"1185 Falmouth Road, Barnstable, MA, 02601",41.6578546,-70.3301638
+Medication for Opioid Use Disorder,Harbor Community Health Center- Hyannis,(508) 778-5420,"735 Attucks Lane, Hyannis, MA, 02601",41.6747364,-70.2977029
+Medication for Opioid Use Disorder,Wellfleet Community Health Center,(508) 349-3131,"3130 Route 6, Wellfleet, MA, 02667",41.946086,-70.030233
+Medication for Opioid Use Disorder,CleanSlate - Barnstable OBOT,(774) 470-1370,"68 CAMP STREET  BARNSTABLE, MA, 02601",41.6575743,-70.2753485
+Medication for Opioid Use Disorder,CleanSlate - Hyannis OBOT,(413) 584-2173,"68 Camp Street,  Hyannis, MA, 02601",41.6575743,-70.2753485
+Medication for Opioid Use Disorder,Wellfleet Mobile Unit - Habit Opoc - Yarmouth,(844) 943-4429,"2700 Route 6, Wellfleet, MA, 02667",41.9373341,-70.0208661
+Medication for Opioid Use Disorder,Duffy Health Center,(508) 771-9599,"94 Main Street, Hyannis, MA, 02601",41.6562982,-70.2744449
+Medication for Opioid Use Disorder,Buprenorphine / Suboxone / Office-based Addiction Treatment (OBAT),(508) 502-7589,"31A WORKSHOP ROAD, YARMOUTH, MA, 02664",41.6865669,-70.2119738
+Medication for Opioid Use Disorder,Harwich Community Health Center,(508) 432-1400,"269 Chatham Road, Harwich, MA, 02645",41.6770735,-70.0461051
+Medication for Opioid Use Disorder,"Spectrum Health Systems, Inc",(413) 664-9024,"1274 CURRAN HWY, NORTH ADAMS, MA, 01247",42.6672392,-73.1071373
+Medication for Opioid Use Disorder,The Brien Center - OBOT,(413) 629-1137,"124 American Legion Drive, North Adams, MA, 01247",42.6958146,-73.111765
+Medication for Opioid Use Disorder,The Brien Center for Mental Health & Substance Abuse,(413) 664-4541,"124 AMERICAN LEGION DR., NORTH ADAMS, MA, 01247",42.6958146,-73.111765
+Medication for Opioid Use Disorder,"SaVida Health, PC",(413) 398-5180,"77 HOSPITAL AVE  NORTH ADAMS, MA, 01247",42.7069349,-73.1093026
+Medication for Opioid Use Disorder,CleanSlate - North Adams OBOT,(413) 346-2544,"77 HOSPITAL AVENUE  NORTH ADAMS, MA, 01247",42.7069349,-73.1093026
+Medication for Opioid Use Disorder,Spectrum Outpatient Services,(413) 442-0402,"390 MERRILL RD, PITTSFIELD, MA, 01201",42.4580453,-73.2108759
+Medication for Opioid Use Disorder,The Brien Center for Mental Health - Outpatient,(413) 499-0412,"333 East Street, Pittsfield, MA, 01201",42.4480832,-73.2470947
+Medication for Opioid Use Disorder,The Brien Center for Mental Health & Substance Abuse,(413) 629-1211,"333 EAST STREET, PITTSFIELD, MA, 01201",42.4480832,-73.2470947
+Medication for Opioid Use Disorder,Brien Center for Mental Health & Substance Abuse Services,(413) 499-0412,"251 Fenn Street, Pittsfield, MA, 01201",42.4499275,-73.2482467
+Medication for Opioid Use Disorder,CleanSlate - Pittsfield OBOT,(413) 347-4088,"53 EAGLE STREET, PITTSFIELD, MA, 01201",42.4515576,-73.2518832
+Medication for Opioid Use Disorder,"SaVida Health, PC",(413) 236-9100,"184 North St.,  PITTSFIELD, MA, 01201",42.4510749,-73.2528542
+Medication for Opioid Use Disorder,"Addiction Campuses of Massachusetts, LLC d/b/a Vertava Health",(413) 200-7511,"2  South Street, Pittsfield, MA, 01201",42.4480375,-73.254513
+Medication for Opioid Use Disorder,Spectrum Health Systems - Great Barrington Outpatient Counseling,(413) 347-4647,"290 Park Street, Great Barrington, MA, 01230",42.2404311,-73.3556952
+Medication for Opioid Use Disorder,"Spectrum Health Systems, Great Barrington",(413) 347-4647,"290 PARK ST., GREAT BARRINGTON, MA, 01230",42.2404311,-73.3556952
+Medication for Opioid Use Disorder,The Brien Center for Mental Health & Substance Abuse Services,(413) 629-1019,"60 COTTAGE ST, GREAT BARRINGTON, MA, 01230",42.1975017,-73.3582437
+Bridge Clinic,Spectrum Health Systems (Hub & Spoke with Co-located OTP),(508) 875-5801,"68 FRANKLIN STREET, FRAMINGHAM, MA, 01701",42.2790877,-71.4184797
+Bridge Clinic,Brigham and Women's Health Bridge Clinic,(617) 278-0172,"75 Francis Street 1st  Boston, MA, 02115",42.3360033,-71.1072378
+Bridge Clinic,Newton Wellesley Bridge Clinic,(617) 243-6062,"2000 Washington Street, Blue Building  Newton, MA, 02462",42.3313754,-71.2455017
+Bridge Clinic,MGH Bridge Clinic,(617) 643-8281,"55 Fruit Street, Boston, MA, 02114",42.3632187,-71.0686042
+Bridge Clinic,Boston Medical Center,(617) 414-4388,"850 Harrison Avenue, Boston, MA, 02118",42.33502,-71.074882
+Bridge Clinic,Boston Medical Center - Office Based Addiction Treatment (OBAT),(617) 414-4123,"801 Massachusetts Avenue, Boston, MA, 02118",42.3330467,-71.0736404
+Bridge Clinic,Lowell Hospital Bridge Clinic,(978) 934-8494,"33 Bartlett Street, Lowell, MA, 01852",42.6451438,-71.3012017
+Bridge Clinic,Lynn Community Health Center Bridge Clinic,(781) 581-3900,"269 Union Street, Lynn, MA, 01901",42.4650471,-70.9438909
+Bridge Clinic,Greater Lawrence Family Health Center Mobile Health Unit,(978) 686-0090,"100 Water Street, Lawrence, MA, 01841",42.7003379,-71.1698307
+Bridge Clinic,Greater Lawrence Family Health Center Mobile Health Unit,(978) 686-0090,"85 Baystate Road, Lawrence, MA, 01841",42.7007251,-71.1689417
+Bridge Clinic,Lawrence Family Health Center Bridge Clinic,(978) 683-4000,"1 General Street, Lawrence, MA, 01841",42.7097587,-71.1507002
+Bridge Clinic,Lawrence General Hospital Bridge Clinic,(978) 683-4000,"1 General Street , Lawrence , MA, 01842",42.7097587,-71.1507002
+Bridge Clinic,Family Health Center of Worcester - OBAT,(508) 860-7823,"26 Queen Street, Worcester, MA, 01610",42.2591769,-71.8146751
+Bridge Clinic,Spectrum Health Systems,(774) 314-4761,"475 Pleasant Street, Worcester, MA, 01609",42.2636484,-71.8181134
+Bridge Clinic,Salem Hospital Bridge Clinic,(978) 354-2050,"55 Highland Ave, Salem, MA, 01970",42.5127306,-70.9056706
+Bridge Clinic,South Shore Hospital Bridge Clinic,(781) 624-5065,"797 Main Street,  Weymouth, MA, 02190",42.1781283,-70.9559682
+Bridge Clinic,Northeast Hospital-Beverly Bridge Clinic,(978) 922-3000,"85 Herrick Street, Beverly, MA, 01915",42.5644942,-70.8758403
+Bridge Clinic,Mass General Brigham Community Physicians Bridge Clinic,(978) 469-5536,"600 Primerose St  Haverhill, MA, 02114",42.7938059,-71.0895983
+Bridge Clinic,Sturdy Memorial/Brightview,(844) 265-8661,"7B Railroad Ave, Attleboro, MA, 02703",41.9441849,-71.2833082
+Bridge Clinic,Harrington Memorial Hospital Addiction Immediate Care Clinic,(508) 949-8981,"340 THOMPSON RD, WEBSTER, MA, 01570",42.0274605,-71.8512291
+Bridge Clinic,SSTAR Opiate Triage Center,(508) 955-4673,"386 Stanley Street, Fall River, MA, 02720",41.7151478,-71.1363484
+Bridge Clinic,SSTAR -  Buprenorphine / Suboxone / Office Based Treatment,(508) 679-5222,"400 Stanley Street, Fall River, MA, 02720",41.714192,-71.134829
+Bridge Clinic,SSTAR,(508) 675-1054,"1010 South Main Street, Fall River, MA, 02724",41.6907377,-71.1651585
+Bridge Clinic,Holyoke Medical Center,(413) 420-1730,"230 Maple Street, Holyoke, MA, 01040",42.2071888,-72.6083931
+Bridge Clinic,Behavioral Health Network - Springfield OTP,(413) 272-1333,"395 LIBERTY ST, SPRINGFIELD, MA, 01104",42.1134475,-72.5860148
+Bridge Clinic,The Brien Center for Mental Health - Outpatient,(413) 499-0412,"333 East Street, Pittsfield, MA, 01201",42.4480832,-73.2470947
+Naloxone & OD Education,Total Results:,(508) 738-5148,"60, Raynham, MA, 02767",41.9427194,-71.0616623
+Naloxone & OD Education,Wayland Health Department,(508) 358-7701,"41 Cochituate Road, Wayland, MA, 01778",42.3605975,-71.3617557
+Naloxone & OD Education,Concord Health Division,(978) 318-3100,"141 Keyes Rd, Concord, MA, 01742",42.4633688,-71.3538144
+Naloxone & OD Education,Town of Acton Health Division,(978) 929-6632,"472 Main Street, Acton, MA, 01720",42.4861378,-71.4335711
+Naloxone & OD Education,C4 Innovations,(617) 467-6014,"231 , Lexington, MA, 02421",42.4286907,-71.2280234
+Naloxone & OD Education,Marlborough Board of Health,(508) 460-3787,"140 Main St., Marlborough, MA, 01752",42.3466348,-71.5478139
+Naloxone & OD Education,Southborough Health Department,(508) 481-3013,"9 Cordaville Road, Southborough, MA, 01772",42.3035474,-71.5290072
+Naloxone & OD Education,"Team Sharing, Inc",(978) 375-4941,"289 Elm St.  Marlborough, MA, 01752",42.3490542,-71.5712176
+Naloxone & OD Education,Needham Public Health Division,(781) 455-7940,"178 Rosemary St., Needham, MA, 02494",42.2875689,-71.2375369
+Naloxone & OD Education,Arlington Department of Health and Human Services,(781) 316-3170,"27 Maple Street , Arlington, MA, 02476",42.4151031,-71.1568736
+Naloxone & OD Education,Harvard Ambulance Service Community EMS Program,(978) 456-4110,"40 Ayer Rd, Harvard, MA, 01451",42.506508,-71.5842179
+Naloxone & OD Education,Westford Health Department,(978) 692-5509,"55 Main Street, Westford, MA, 01886",42.5817409,-71.4368946
+Naloxone & OD Education,Woburn City Hall,(781) 897-5923,"10 Common Street, Woburn, MA, 01801",42.4790972,-71.1526033
+Naloxone & OD Education,"Addiction Treatment Center of New England, Inc",(617) 254-1271,"77 Warren Street, Brighton, MA, 02135",42.3484365,-71.1423915
+Naloxone & OD Education,Hopkinton Health Department,(508) 497-9725,"18 Main Street, Hopkinton, MA, 01748",42.229049,-71.5203362
+Naloxone & OD Education,Brookline Department of Health and Human Services,(617) 730-2300,"11 Pierce Street, Brookline, MA, 02445",42.3346971,-71.1205744
+Naloxone & OD Education,ACCESS Drug User Health Program,(617) 661-3040,"359 Green Street, Cambridge, MA, 02139",42.3657252,-71.1056282
+Naloxone & OD Education,Health Care Resource Centers,(781) 838-6757,"9 FORBES ROAD, WOBURN, MA, 01801",42.4949767,-71.121642
+Naloxone & OD Education,Roxbury Tenants of Harvard,(617) 731-6972,"11 New Whitney St., Boston, MA, 02115",42.3350404,-71.1095404
+Naloxone & OD Education,Cambridge Health Alliance,(857) 523-0053,"119 Windsor Street, Cambridge, MA, 02139",42.3645783,-71.0971001
+Naloxone & OD Education,Fenway Community Health Center,(617) 927-6281,"1340 Boylston Street, Boston, MA, 02215",42.3441103,-71.0989696
+Naloxone & OD Education,Stoneham Town Hall- Health Department,(781) 279-2621,"35 Central St, Stoneham, MA, 02180",42.4803743,-71.0983607
+Naloxone & OD Education,Access: Drug User Health Program,(617) 437-6200,"75 Amory Street, Boston, MA, 02119",42.3206791,-71.0997772
+Naloxone & OD Education,MGH Bridge Clinic,(617) 643-8281,"55 Fruit Street, Boston, MA, 02114",42.3632187,-71.0686042
+Naloxone & OD Education,"Victory Programs, Inc. - Mobile Prevention Team",(617) 541-0222,"29 Stanhope Street, Boston, MA, 02176",42.3484755,-71.0730305
+Naloxone & OD Education,Fenway Community Health Center,(617) 457-8140,"75 Kneeland Street,  Jr. Health Center, Boston, MA, 02111",42.3500947,-71.0606782
+Naloxone & OD Education,City of Peabody - Substance Abuse Prevention Programs,(978) 532-3000,"24 Lowell Street, Peabody, MA, 01960",42.5260089,-70.9288285
+Naloxone & OD Education,Recovery Services - NeighborHealth,(857) 206-7495,"1601 Washington St., Boston, MA, 02118",42.3383369,-71.0747099
+Naloxone & OD Education,Life Connection Center,(978) 997-0588,"192 Appleton Street, Lowell, MA, 01852",42.6398553,-71.3118037
+Naloxone & OD Education,Boston Health Care for the Homeless a Satellite Site of BMC - Boston (START),(857) 654-1628,"780 Albany Street, Boston, MA, 02118",42.3336166,-71.0728071
+Naloxone & OD Education,Boston Needle Exchange Program - AHOPE - Overdose Prevention / Narcan (Naloxone) Training,(617) 534-3967,"774 Albany Street, Boston, MA, 02118",42.3336478,-71.0727596
+Naloxone & OD Education,Lowell Community Health Center,(978) 221-6767,"161 Jackson Street, Lowell, MA, 01852",42.6418133,-71.3115185
+Naloxone & OD Education,"PAATHS (Providing Access to Addictions Treatment, Hope and Support)",(855) 494-4057,"774 Albany Street, Boston, MA, 02118",42.3336478,-71.0727596
+Naloxone & OD Education,Vinfen Community Behavioral Health Center CBHC,(866) 388-2242,"40 Church St, Lowell, MA, 01852",42.6416657,-71.307311
+Naloxone & OD Education,Familias Unidas Outpatient Clinic,(617) 684-6209,"245 Eustis Street, Boston, MA, 02119",42.3267786,-71.0751028
+Naloxone & OD Education,Riverbend - Outpatient Counseling,(978) 459-8656,"101 JACKSON ST 4TH  LOWELL, MA, 01852",42.642321,-71.3101303
+Naloxone & OD Education,Millis Board of Health - Harm Reduction,(508) 376-7042,"900 Main Street, Millis, MA, 02054",42.166348,-71.358718
+Naloxone & OD Education,Health Care for the Homeless - St. Francis,(617) 542-4704,"39 Boylston St,  Boston, MA, 02111",42.3525109,-71.063473
+Naloxone & OD Education,Seeds of Change (formerly St. Francis House Recovery Center),(617) 542-4211,"39 Boylston St, Boston, MA, 02116",42.3525109,-71.063473
+Naloxone & OD Education,Tewksbury Treatment Center,(978) 259-7000,"365 EAST STREET, TEWKSBURY, MA, 01876",42.6116532,-71.2084272
+Naloxone & OD Education,Casa Esperanza Men's Program,(617) 420-1025,"291 Eustis Street, Boston, MA, 02119",42.3260075,-71.0738493
+Naloxone & OD Education,Tufts Medical Center,(978) 942-2220,"800 Washington Street, Boston, MA, 02111",42.34964,-71.063506
+Naloxone & OD Education,Victory Connector,(617) 541-0222,"965 Massachusetts Ave, Boston, MA, 02118",42.3291295,-71.0690676
+Naloxone & OD Education,Multicultural AIDS Coalition (Women Connecting Affecting Change),(617) 541-1050,"157A Washington Street, Boston, MA, 02121",42.3040479,-71.079387
+Naloxone & OD Education,Mass.gov/Narcan,(617) 624-5111,"250 Washington Street - 3rd  Boston, MA, 02108",42.3580702,-71.0577163
+Naloxone & OD Education,Riverbend,(978) 459-8656,"555 Merrimack Street, Lowell, MA, 01854",42.6474608,-71.3166986
+Naloxone & OD Education,Boston Public Health Commission Mobile Unit - Opioid Overdose Prevention / Narcan (Naloxone) Training,(617) 592-7828,"1010 Massachusetts Avenue, Boston, MA, 02118",42.3278093,-71.0673264
+Naloxone & OD Education,Lowell Community Health Center - Overdose Prevention / Narcan (Naloxone) Training,(978) 937-9448,"585-579 Merrimack Street, Lowell, MA, 01854",42.6477021,-71.3171382
+Naloxone & OD Education,Wakefield Health and Human Services,(339) 219-4014,"5 Common St , Wakefield, MA, 01880",42.5066567,-71.0727862
+Naloxone & OD Education,Neighbor Health,(617) 726-6260,"79 Paris St., East Boston, MA, 02128",42.3713855,-71.038403
+Naloxone & OD Education,South Shore Peer Recovery Center,(781) 985-8064,"2, Weymouth, MA, 02191",42.2432065,-70.9487357
+Naloxone & OD Education,Community Impact Inc (Chris Corner Recovery Resource Center),(508) 552-8080,"12 Main Street, Milford, MA, 01757",42.1374046,-71.521402
+Naloxone & OD Education,Mens Grief Group for Substance-Use Loss,(774) 573-6568,"12 Main Street, Milford, MA, 01757",42.1374046,-71.521402
+Naloxone & OD Education,MRC - Montachusett Recovery Center,(978) 227-5036,"106 Carter St Ste 40, Leominster, MA, 01453",42.5203301,-71.7477036
+Naloxone & OD Education,Canton Board of Health,(781) 821-2942,"79 Pleasant Street, Canton, MA, 02021",42.1716036,-71.1354069
+Naloxone & OD Education,Ripple Effect Peer Recovery  Support Center,(978) 384-7337,"40 Spruce St., Leominster, MA, 01453",42.5264253,-71.7552842
+Naloxone & OD Education,"11 Circle Avenue, Lynn, MA, 01905",(781) 836-4054,"11 Circle Avenue, Lynn, MA, 01905",42.4533028,-70.958813
+Naloxone & OD Education,Lynn Public Health Department,(781) 586-6819,"3 City Hall Square Room 103, Lynn, MA, 01901",42.4648005,-70.9512358
+Naloxone & OD Education,SAFR Coalition,(508) 488-8105,"31 Hayward St  Franklin, MA, 02038",42.0829464,-71.410248
+Naloxone & OD Education,A New Way Recovery Support Center,(617) 302-3287,"85 Quincy Avenue Ste B, Quincy, MA, 02169",42.243079,-70.9972353
+Naloxone & OD Education,Lynn Community Health Center Bridge Clinic,(781) 581-3900,"269 Union Street, Lynn, MA, 01901",42.4650471,-70.9438909
+Naloxone & OD Education,Lynn Recovery Center - The Recovery Exchange Peer Support Center,(617) 980-9784,"35 Exchange St., Lynn, MA, 01901",42.4634878,-70.9430754
+Naloxone & OD Education,Lahey Health Behavioral Services,(781) 592-0243,"280 Union Street, Lynn, MA, 01901",42.4649639,-70.94325
+Naloxone & OD Education,Greater Lawrence Family Health Center Mobile Health Unit,(978) 686-0090,"100 Water Street, Lawrence, MA, 01841",42.7003379,-71.1698307
+Naloxone & OD Education,Manet Community Health,(781) 925-4550,"549 Washington St., Quincy, MA, 02169",42.2471078,-70.9791247
+Naloxone & OD Education,City of Worcester Health and Human Services,(508) 799-8486,"455 Main Street, Room 101, Worcester, MA, 01608",42.2627622,-71.8018178
+Naloxone & OD Education,Jeremiah's Inn,(508) 755-6403,"1059 MAIN STREET P.O. BOX 30035, WORCESTER, MA, 01603",42.2451189,-71.8313551
+Naloxone & OD Education,Methuen Community Resource Center,(978) 983-8664,"1 Broadway, Methuen, MA, 01844",42.717957,-71.1785843
+Naloxone & OD Education,City of Worcester Public Health Department,(508) 799-8531,"25 Meade Street, Worcester, MA, 01610",42.2538594,-71.8017472
+Naloxone & OD Education,AIDS Project Worcester - Opioid Overdose Prevention / Narcan (Naloxone) Training,(508) 755-3773,"165 Southbridge Street, Worcester, MA, 01604",42.2573415,-71.804922
+Naloxone & OD Education,Community Health Connections - Fitchburg,(978) 878-8100,"130 Water Street, Fitchburg, MA, 01420",42.580639,-71.7939413
+Naloxone & OD Education,Swampscott Health Department,(781) 596-8864,"22 Monument Ave, Swampscott, MA, 01907",42.4696786,-70.9183446
+Naloxone & OD Education,Safe Exit Initiative,(774) 243-6025,"534 Cambridge Street, Worcester, MA, 01610",42.2439877,-71.8087577
+Naloxone & OD Education,Millbury Public Health,(508) 865-4710,"127 Elm Street, Millbury, MA, 01527",42.1890514,-71.7620164
+Naloxone & OD Education,City of Fitchburg Health Department Outreach & Prevention,(978) 829-1854,"14 Wallace Ave,  Fitchburg, MA, 01420",42.5841894,-71.801968
+Naloxone & OD Education,College of the Holy Cross,(508) 793-2011,"1 College St, Worcester, MA, 01610",42.2382104,-71.806901
+Naloxone & OD Education,Foxborough Health Department,(508) 543-1207,"40 South Street, Foxborough, MA, 02035",42.0628143,-71.250345
+Naloxone & OD Education,"Community Health Connections, Inc.",(978) 878-8100,"326 Nichols Road, Fitchburg, MA, 01420",42.5973602,-71.8076959
+Naloxone & OD Education,Holbrook Board of Health,(781) 767-3030,"50 North Franklin Street, Holbrook, MA, 02343",42.127199,-71.018509
+Naloxone & OD Education,South Shore Hospital Bridge Clinic,(781) 624-5065,"797 Main Street,  Weymouth, MA, 02190",42.1781283,-70.9559682
+Naloxone & OD Education,Topsfield Health Department,(978) 887-1520,"8 West Common Street, Topsfield, MA, 01983",42.6417248,-70.9511865
+Naloxone & OD Education,Manet Community Health Center- Hull,(781) 925-4550,"180 George Washington Boulevard, Hull, MA, 02045",42.2630668,-70.8605871
+Naloxone & OD Education,Apex Medical Wellness,(508) 969-1020,"111 Torrey St., Brockton, MA, 02301",42.0738444,-71.0468771
+Naloxone & OD Education,Health Imperatives (Brockton),(508) 583-3005,"111 Torrey St., Brockton, MA, 02301",42.0738444,-71.0468771
+Naloxone & OD Education,BAMSI COPE Center Syringe Disposal - Syringe and Needle Disposal Site,(508) 583-3405,"81 Pleasant Street, Brockton, MA, 02301",42.085757,-71.0222179
+Naloxone & OD Education,MainSpring House Shelter - Shelters for Individuals,(508) 587-5441,"54 North Main Street, Brockton, MA, 02301",42.0866898,-71.0201533
+Naloxone & OD Education,Brockton Area Multi-Services,(508) 583-3405,"74 Pleasant Street, Brockton, MA, 02301",42.0853113,-71.0219651
+Naloxone & OD Education,Brockton Area Multi-Services - Opioid Overdose Prevention / Narcan (Naloxone) Training,(508) 583-3405,"74 Pleasant Street, Brockton, MA, 02301",42.0853113,-71.0219651
+Naloxone & OD Education,COPE Center (BAMSI),(508) 583-3405,"74 Pleasant St, Brockton, MA, 02301",42.0853113,-71.0219651
+Naloxone & OD Education,Leicester Regional Public Health Coalition,(508) 892-7008,"3 Washburn Square, Leicester, MA, 01524",42.2472577,-71.9060661
+Naloxone & OD Education,Brockton Neighborhood Health Center,(508) 559-6699,"63 Main Street, Brockton, MA, 02130",42.0845166,-71.0201542
+Naloxone & OD Education,Community Care In-Reach,(508) 233-0573,"63 Main Street, Brockton, MA, 02301",42.0845166,-71.0201542
+Naloxone & OD Education,Abington Health Department,(781) 982-2119,"500 Gliniewicz Way , Abington, MA, 02351",42.1173797,-70.9566602
+Naloxone & OD Education,NFI Massachusetts,(978) 373-1181,"76 WINTER STREET, HAVERHILL, MA, 01830",42.7771751,-71.0794436
+Naloxone & OD Education,One Stop Harm Reduction - North Shore Health Project,(978) 283-0101,"75 Winter Street, Haverhill, MA, 01830",42.7772722,-71.078988
+Naloxone & OD Education,Alyssa's Place,(978) 632-0934,"297 Central Street, Gardner, MA, 01440",42.5765758,-71.9950079
+Naloxone & OD Education,"Test Program March 07, 2025",(000) 000-0000,"07, 2025
+      1234 king ln, Abington, MA, 74103",42.1048228,-70.9453218
+Naloxone & OD Education,Essex Town Hall,(978) 768-7614,"30 Martin Street, Essex, MA, 01929",42.6315228,-70.7833009
+Naloxone & OD Education,Learn to Cope (self help) - Family Support & 12-Step Groups,(508) 738-5148,"12-Step Groups
+      P.O. Box 60, Raynham, MA, 02767",41.9427194,-71.0616623
+Naloxone & OD Education,Webster Health Department,(508) 949-3800,"350 Main Street, Webster, MA, 01570",42.049262,-71.8802192
+Naloxone & OD Education,Manet Community Health Center- Taunton,(508) 822-5500,"1 Washington Street, Taunton, MA, 02780",41.9006623,-71.098632
+Naloxone & OD Education,Still Learning Still Coping,(508) 245-8005,"4 Court Street  Taunton, MA, 02780",41.9020474,-71.09449
+Naloxone & OD Education,Seven Hills Behavioral Health- Taunton,(508) 996-0546,"9 Winthrop Street, Taunton, MA, 02780",41.9012285,-71.0943505
+Naloxone & OD Education,Lahey Health Behavioral Services - Opioid Overdose Prevention / Narcan (Naloxone) Training,(978) 236-0251,"302 Washington Street, Gloucester, MA, 01930",42.6264427,-70.6806269
+Naloxone & OD Education,ONE STOP Harm Reduction Program,(978) 283-0101,"33 Commercial Street,  Gloucester, MA, 01930",42.6100269,-70.6661759
+Naloxone & OD Education,Action Emergency Shelter -  Shelters for Individuals,(978) 282-1000,"180 Main Street, Gloucester, MA, 01930",42.6130986,-70.6616031
+Naloxone & OD Education,Bristol County Outreach,(508) 336-8123,"500 Taunton Ave. , Seekonk, MA, 02771",41.8299269,-71.3265119
+Naloxone & OD Education,Fishing Partnership: Narcan Training for Fisherman,(978) 282-4847,"2 Blackburn Center, Gloucester , MA, 01930",42.6250168,-70.6525675
+Naloxone & OD Education,City of Gloucester Health Department - Opioid Overdose Prevention / MassCALL2 Programs,(866) 964-4602,"2 Programs
+      3 Pond Road, Gloucester, MA, 01930",42.6302279,-70.639924
+Naloxone & OD Education,Gloucester Board of Health - Substance Abuse Prevention Programs,(978) 281-9771,"3 Pond Road, Gloucester, MA, 01930",42.6302279,-70.639924
+Naloxone & OD Education,McLean at Naukeag - Outpatient,(978) 541-6913,"211 North Main Street, Petersham, MA, 01430",42.5165866,-72.1835029
+Naloxone & OD Education,McLean Southeast,(774) 419-1000,"24 Isaac Street, Middleborough, MA, 02346",41.9023194,-70.9192804
+Naloxone & OD Education,Recovery Center of HOPE,(413) 277-6290,"52 Main St, Ware, MA, 01082",42.2597691,-72.2404965
+Naloxone & OD Education,Quabbin Health District,(413) 967-9615,"126 Main Street D, Ware, MA, 01082",42.260215,-72.242618
+Naloxone & OD Education,Plymouth County Outreach,(508) 830-4218,"62 Main Street, Kingston, MA, 02364",41.9844907,-70.7037867
+Naloxone & OD Education,Plymouth C.O.P.E. Center,(508) 591-3870,"385 Court Street,  Plymouth, MA, 02360",41.9791287,-70.6913376
+Naloxone & OD Education,Behavioral Health Network - Orange OTP,(978) 674-7240,"119 New Athol Road, Orange, MA, 01364",42.5846563,-72.2637326
+Naloxone & OD Education,Fishing Partnership: Narcan Training for Fisherman,(508) 746-5400,"139 Court Street,  Plymouth, MA, 02360",41.9619337,-70.6726809
+Naloxone & OD Education,Center for Human Development,(978) 544-2148,"131 West Main Street, Orange, MA, 01364",42.5918639,-72.3164749
+Naloxone & OD Education,SSTAR Opiate Triage Center,(508) 955-4673,"386 Stanley Street, Fall River, MA, 02720",41.7151478,-71.1363484
+Naloxone & OD Education,Health Imperatives (Plymouth),(508) 583-3005,"123 - 1 Camelot Drive, Plymouth, MA, 02360",41.9271979,-70.6454816
+Naloxone & OD Education,Seven Hills Behavioral Health Fall River,(508) 679-0962,"310 South Main Street, Fall River, MA, 02721",41.6983085,-71.1583505
+Naloxone & OD Education,STEP Outreach Program - Opioid Overdose Prevention / Narcan (Naloxone) Training,(508) 235-1012,"310 South Main Street, Fall River, MA, 02721",41.6983085,-71.1583505
+Naloxone & OD Education,STEP Outreach Program - Overdose Prevention / Narcan (Naloxone) Training,(508) 235-1012,"310 South Main Street, Fall River, MA, 02721",41.6983085,-71.1583505
+Naloxone & OD Education,Seven Hills Behavioral Health - Drop In Center (Fall River),(508) 235-1012,"356 South Main Street, Fall River, MA, 02720",41.6978561,-71.1589001
+Naloxone & OD Education,SSTAR,(508) 679-3296,"1010 South Main Street, Fall River, MA, 02724",41.6907377,-71.1651585
+Naloxone & OD Education,Health First Family Care Center OAR Program,(508) 536-3648,"387 Quarry Street,  Fall River, MA, 02723",41.693548,-71.139681
+Naloxone & OD Education,Health Imperatives (Wareham),(508) 295-0383,"106 Main Street, Wareham, MA, 02571",41.75583,-70.713104
+Naloxone & OD Education,Home of Hope - Opioid Overdose Prevention / Narcan (Naloxone) Training,(508) 996-0546,"1173 Acushnet Avenue, New Bedford, MA, 02746",41.657243,-70.9273254
+Naloxone & OD Education,Home of Hope - Overdose Prevention / Narcan (Naloxone) Training,(508) 996-0546,"1173 Acushnet Avenue, New Bedford, MA, 02746",41.657243,-70.9273254
+Naloxone & OD Education,Seven Hills Behavioral Health - Drop In Center (New Bedford,(774) 634-3735,"1177 Acushnet Avenue, New Bedford, MA, 02746",41.657315,-70.9272359
+Naloxone & OD Education,Fishing Partnership: Narcan Training for Fisherman,(508) 991-3043,"398 County Street, New Bedford , MA, 02740",41.6307884,-70.9287238
+Naloxone & OD Education,Everest Recovery Center,(413) 268-6522,"14 Chestnut Place,  Ludlow, MA, 01056",42.1575964,-72.4811254
+Naloxone & OD Education,Health Imperatives (New Bedford),(508) 984-5333,"651 Orchard Street, New Bedford, MA, 02744",41.6149042,-70.9304531
+Naloxone & OD Education,Terry Rodriguez Wellness Center,(413) 266-8548,"284 Main St., Indian Orchard, MA, 01151",42.1591953,-72.4965614
+Naloxone & OD Education,Aster House,(413) 333-4566,"51 Old Lyman rd, South Hadley, MA, 01075",42.222696,-72.5684
+Naloxone & OD Education,Greenfield Health Department,(413) 772-1404,"20 Sanderson Street, Greenfield, MA, 01301",42.5947152,-72.5960055
+Naloxone & OD Education,Tapestry Health- Greenfield,(413) 475-3377,"40 School Street  Greenfield, MA, 01301",42.5890807,-72.601107
+Naloxone & OD Education,CHD Outpatient Behavioral Health Services,(413) 774-6252,"102 Main Street, Greenfield, MA, 01310, Greenfield, MA, 01310",42.5878394,-72.6054085
+Naloxone & OD Education,Community Health Center of Franklin County,(413) 325-8500,"102 Main Street, Greenfield, MA, 01301",42.5878394,-72.6054085
+Naloxone & OD Education,New North Citizens Council,(413) 746-4885,"34 Catherine Street, Springfield, MA, 01109",42.112315,-72.5653714
+Naloxone & OD Education,Northampton Recovery Center,(413) 834-4127,"25 Armory Street, Northampton, MA, 01060",42.3188214,-72.6296817
+Naloxone & OD Education,A Positive Place,(413) 586-8288,"60 Maplewood Shops, 2 Conz Street, Northampton, MA, 01060",42.3161423,-72.6305337
+Naloxone & OD Education,Tapestry Health- Northampton,(413) 586-0310,"16 Center Street, Northampton, MA, 01060",42.3189558,-72.631674
+Naloxone & OD Education,"Holyoke Health Center, Center for Recovery and Support",(413) 420-2200,"230 Maple Street, Holyoke, MA, 01041",42.2071888,-72.6083931
+Naloxone & OD Education,CleanSlate- Holyoke OBOT,(413) 650-0590,"306 RACE STREET  HOLYOKE, MA, 01040",42.2004425,-72.6074938
+Naloxone & OD Education,Tapestry Health (Holyoke),(413) 315-3732,"306 Race Street, Holyoke, MA, 01040",42.2004425,-72.6074938
+Naloxone & OD Education,Holyoke Health Center - Opioid Overdose Prevention / Narcan (Naloxone) Training,(413) 536-8721,"330 Appleton Street, Holyoke, MA, 01040",42.2056996,-72.6114511
+Naloxone & OD Education,Holyoke Health Center - Overdose Prevention / Narcan (Naloxone) Training,(413) 536-8721,"330 Appleton Street, Holyoke, MA, 01040",42.2056996,-72.6114511
+Naloxone & OD Education,"New North Citizens Council, Inc",(413) 746-4885,"476 Appleton Street, Holyoke, MA, 01040",42.2087333,-72.6177802
+Naloxone & OD Education,Tapestry Harm Reduction Services - Opioid Overdose Prevention / Narcan (Naloxone) Training,(413) 363-9472,"130 Maple Street, Springfield, MA, 01150",42.1004889,-72.5804673
+Naloxone & OD Education,Tapestry Health (Chicopee),(413) 586-2016,"12 Ames Ave, Chicopee, MA, 01013",42.1488332,-72.6023754
+Naloxone & OD Education,Tapestry Harm Reduction Services - Needle Exchange Programs,(413) 363-9472,"1985 Main Street, Springfield, MA, 01060",42.1072373,-72.5973525
+Naloxone & OD Education,AIDS Support Group of Cape Cod,(866) 668-6448,"96-98  Bradford Street, Provincetown, MA, 02657",42.051001,-70.1885117
+Naloxone & OD Education,AIDS Support Group of Cape Cod - Opioid Overdose Prevention / Narcan (Naloxone) Training,(866) 668-6448,"336 Commercial Street, Provincetown, MA, 02657",42.052855,-70.1849623
+Naloxone & OD Education,"MiraVista - Outpatient Counseling (Individual, Group, Family)",(413) 264-3042,"1233 Main Street, Holyoke, MA, 01040",42.1659064,-72.633996
+Naloxone & OD Education,AIDS Support Group of Cape Cod - Falmouth,(774) 763-6656,"31 Teaticket Highway, East Falmouth, MA, 02536",41.5615848,-70.5978827
+Naloxone & OD Education,One Shared Spirit,(774) 228-3431,"651 Falmouth Road, Mashpee, MA, 02649",41.6121255,-70.49038
+Naloxone & OD Education,Tapestry Health - Westfield,(413) 241-5379,"17 East Silver Street, Westfield, MA, 01085",42.1139884,-72.7452526
+Naloxone & OD Education,Health Imperatives (Hyannis),(508) 771-8010,"1019 Lyannough Road, Hyannis, MA, 02601",41.6714901,-70.3033289
+Naloxone & OD Education,AIDS Support Group of Cape Cod,(866) 990-2437,"428 South Street, Hyannis, MA, 02601",41.6487256,-70.2893999
+Naloxone & OD Education,Duffy Health Center,(508) 771-9599,"94 Main Street, Hyannis, MA, 02601",41.6562982,-70.2744449
+Naloxone & OD Education,AIDS Support Group of Cape Cod - Martha's Vineyard,(774) 994-7935,"517 State Road, Vineyard Haven, MA, 02568",41.4449951,-70.6189142
+Naloxone & OD Education,Health Imperatives (Vineyard Haven),(508) 693-1208,"517 State Road, Vineyard Haven, MA, 02568",41.4449951,-70.6189142
+Naloxone & OD Education,Fishing Partnership: Narcan Training for Fisherman,(774) 840-9393,"894 Main Street, Chatham, MA, 02633",41.6864985,-69.9684799
+Naloxone & OD Education,Berkshire Harm Reduction - North Adams,(413) 398-5603,"6 West Main Street , North Adams, MA, 01247",42.6997484,-73.1150386
+Naloxone & OD Education,Berkshire Harm Reduction Pittsfield,(413) 447-2654,"201, Pittsfield, MA, 01201",42.4500845,-73.2453824
+Naloxone & OD Education,Syringe and Needle Disposal Site - Pittsfield - Syringe and Needle Disposal Site,(413) 447-2654,"510 North Street, Pittsfield, MA, 01201",42.4555476,-73.2510573
+Naloxone & OD Education,Fairwind's Nantucket's Counseling Center,(508) 228-2689,"20 Vesper Lane L-1 Gouin Village, Nantucket, MA, 02554",41.2731551,-70.1027635
+Naloxone & OD Education,Health Imperatives (Nantucket),(508) 228-9189,"3, Nantucket, MA, 02554",41.2708115,-70.0264952
+Detox,"Charles River Recovery, LLC",(844) 666-2375,"75 Norumbega Rd, Weston, MA, 02493",42.3491697,-71.2619208
+Detox,McLean Hospital HCQ,(800) 333-0338,"115 MILL STREET, BELMONT, MA, 02478",42.3948369,-71.1955271
+Detox,Hillside,(781) 332-4135,"188 Florence St, Newton, MA, 02467",42.3183755,-71.1740473
+Detox,HRI Hospital Detox - DMH Program,(833) 378-7377,"227 BABCOCK STREET, BROOKLINE, MA, 02446",42.3507761,-71.1212243
+Detox,Bournewood Hospital Detox - DMH Program,(617) 469-0300,"300 SOUTH STREET, Chestnut Hill, MA, 02467",42.2982761,-71.1493023
+Detox,"VA Boston Drug Dependence Treatment Center, Opioid Treatment Program",(857) 364-6265,"150 S Huntington Ave, Boston, MA, 02130",42.3261251,-71.1110873
+Detox,New England Recovery Center (NERC),(877) 697-3422,"153 OAK STREET, WESTBOROUGH, MA, 01581",42.28635,-71.6269427
+Detox,Spectrum Primary Care,(877) 697-3422,"154 OAK STREET, WESTBOROUGH, MA, 01581",42.2853361,-71.6274632
+Detox,Arbour North Detox - Dual Diagnosis Unit DMH Program,(617) 522-4400,"49 ROBINWOOD AVENUE, BOSTON, MA, 02130",42.3156798,-71.1120793
+Detox,Dimock Substance Abuse Treatment Services C.H.C.,(617) 442-8800,"41 DIMOCK STREET, BOSTON, MA, 02119",42.3196916,-71.0968849
+Detox,"Mayflower Recovery Center - Detox, ATS",(978) 737-7937,"362 Middlesex Avenue, Wilmington, MA, 01887",42.5693248,-71.1599371
+Detox,Andrew House Boston,(617) 318-5600,"170 MORTON ST. 4-SOUTH., BOSTON, MA, 02130",42.3000472,-71.1016018
+Detox,Tewksbury Treatment Center,(978) 259-7000,"365 EAST STREET, TEWKSBURY, MA, 01876",42.6116532,-71.2084272
+Detox,Faulkner - Addiction Recovery Program Inpatient,(617) 983-7060,"1153 CENTRE STREET 6-NORTH, BOSTON, MA, 02130",42.3014851,-71.1282337
+Detox,Gavin Quincy ATS,(617) 845-5785,"43 OLD COLONY AVE, QUINCY, MA, 02170",42.2645476,-71.017879
+Detox,Haven Detox,(855) 614-0111,"1369 GRAFTON ST, WORCESTER, MA, 01604",42.2352112,-71.7473303
+Detox,Adcare Hospital of Worcester Detox,(508) 799-9000,"107 LINCOLN STREET, WORCESTER, MA, 01605",42.2763338,-71.7948449
+Detox,Bedrock Rehab Detox,(855) 661-6060,"1 MEADOWBROOK WAY, CANTON, MA, 02021",42.1649997,-71.0693358
+Detox,"Danvers Treatment Center, Acute Treatment Services",(978) 777-2121,"111 MIDDLETON ROAD, DANVERS, MA, 01923",42.5868892,-70.9766138
+Detox,Sunrise Detox Millbury,(888) 443-3869,"29 MAIN STREET, MILLBURY, MA, 01527",42.1894225,-71.7587511
+Detox,Recovery Centers of America at Danvers - Detox,(978) 767-2847,"75 LINDALL STREET, DANVERS, MA, 01923",42.5734876,-70.9433618
+Detox,Washburn House ATS,(844) 797-5650,"1183 MAIN STREET, WORCESTER, MA, 01603",42.2435277,-71.8386465
+Detox,Recovery Centers of America at Westminster - Detox,(800) 732-6837,"9 VILLAGE INN ROAD, WESTMINSTER, MA, 01473",42.5430172,-71.8783136
+Detox,Baldpate  Acute Treatment Service,(978) 352-2131,"83 BALDPATE ROAD, GEORGETOWN, MA, 01833",42.7051611,-71.011216
+Detox,MCAT - Detox DBA Evoke Wellness Cohasset,(617) 917-3485,"1 CHIEF JUSTICE CUSHING HWY, COHASSET, MA, 02025",42.2390365,-70.8472549
+Detox,SBH Haverhill - Detox,(978) 641-3060,"61 BROWN STREET, HAVERHILL, MA, 01830",42.7641862,-71.0463414
+Detox,Serenity At Summit New England,(508) 882-2734,"61 Brown St , Haverhill, MA, 01830",42.7641862,-71.0463414
+Detox,High Point Treatment Center ATS,(800) 233-4478,"30 MEADOWBROOK ROAD, BROCKTON, MA, 02301",42.0571907,-71.0086213
+Detox,Harrington Healthcare Co-Occurring Disorders Unit,(508) 640-2986,"340 THOMPSON ROAD, WEBSTER, MA, 01570",42.0274605,-71.8512291
+Detox,Clearbrook Treatment Center  - ATS,(800) 582-6241,"83 HOSPITAL ROAD, TEMPLETON, MA, 01436",42.6138034,-72.0610501
+Detox,"Stanley Street Treatment And Resources, Inc- ATS",(800) 937-3610,"386 STANLEY STREET, FALL RIVER, MA, 02720",41.7151478,-71.1363484
+Detox,High Point Acute Treatment Services,(800) 233-4478,"1233 STATE ROAD, PLYMOUTH, MA, 02360",41.8863381,-70.5381871
+Detox,High Point WATC ATS,(800) 233-4478,"108 NORTH FRONT STREET, NEW BEDFORD, MA, 02740",41.6527255,-70.9236853
+Detox,The Retreat of Boston LLC,(413) 299-2485,"14 Chestnut Pl, Ludlow, MA, 01056",42.1575964,-72.4811254
+Detox,Franklin Recovery Center,(413) 301-9355,"21 Kenwood Street, Greenfield, MA, 01301",42.6010637,-72.5954351
+Detox,New View,(413) 301-9355,"21 Kenwood Street, Greenfield, MA, 01301",42.6010637,-72.5954351
+Detox,Carlson Recovery Center,(413) 301-9355,"471 CHESTNUT STREET, Springfield, MA, 01107",42.1146846,-72.5976361
+Detox,Gosnold Treatment Center,(800) 444-1554,"200 TER HEUN DRIVE, FALMOUTH, MA, 02540",41.5662451,-70.626652
+Detox,McGee Unit,(413) 442-1400,"725 NORTH STREET MCGEE  PITTSFIELD, MA, 01201",42.4596189,-73.2493868
+Detox,Berkshire Mountain Health,(413) 259-0341,"446 Monterey Road, Great Barrington, MA, 01230",42.1848528,-73.2968064

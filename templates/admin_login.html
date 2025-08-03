@@ -1,0 +1,60 @@
+<!-- templates/admin_login.html -->
+<!-- This is the admin login page, which is used to log in to the admin dashboard-->
+
+<!-- This extends the base.html file, which is the parent of this page-->
+{% extends "base.html" %}
+
+<!-- The title of the page, which shows up in the browser tab-->
+{% block title %} Community Project - Harm Reduction Chatbot - Login{% endblock %}
+
+<!-- The content of the page (which is defined in the child templates such as this one)-->
+{% block content %}
+<main class="container mt-7 login-main">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <!-- Jumbotron for Title or any introductory text -->
+            <div class="login-jumbotron">
+                <!-- Large header -->
+                <h1 class="display-4">Admin Dashboard Login</h1>
+                <!-- Smaller header -->
+                <p class="lead slightly-smaller">Please enter your credentials to access the admin panel.</p>
+            </div>
+
+            <!-- Login Form -->
+            <form method="POST" action="{{ url_for('website.admin_login') }}">
+                <div class="form-group">
+                    <label for="username">Username:</label>
+                    <input type="text" class="form-control" id="username" name="username" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Password:</label>
+                    <input type="password" class="form-control" id="password" name="password" required>
+                </div>
+
+                <!-- Column for Login Button -->
+                <button type="submit" class="btn login-btn-primary">Login</button>
+
+                <div class="row">
+                    <!-- Column for Return Button -->
+                    <div class="col-md-5">
+                        <a href="{{ url_for('website.onepager') }}" class="btn login-btn-secondary mt-3">Return to Main Page</a>
+                    </div>
+                    <!-- Column for Flash Messages -->
+                    <div class="col-md-7">
+                        {% with messages = get_flashed_messages() %}
+                        {% if messages %}
+                            <div class="alert alert-info text-center" role="alert">
+                                {% for message in messages %}
+                                    <strong>{{ message }}</strong>
+                                {% endfor %}
+                            </div>
+                        {% endif %}
+                        {% endwith %}
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</main>
+
+{% endblock %}

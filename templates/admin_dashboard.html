@@ -1,0 +1,40 @@
+<!-- templates/admin_dashboard.html -->
+<!-- This is the admin dashboard page, which is used to send an alert SMS to the chatbot users-->
+
+<!-- This extends the base.html file, which is the parent of this page-->
+{% extends "base.html" %}
+
+<!-- The title of the page, which shows up in the browser tab-->
+{% block title %} Community Project - Harm Reduction Chatbot - Dashboard{% endblock %}
+
+<!-- The content of the page (which is defined in the child templates such as this one)-->
+{% block content %}
+<main class="dashboard-main">
+    <div class="container my-4">
+        <div class="jumbotron">
+            <h1>Admin Dashboard</h1>
+            <p class="lead slightly-smaller">Send an alert SMS about risks in the drug supply</p>
+        </div>
+
+        <!-- The form for sending the alert SMS-->
+        <form id="emergencyAlertForm" method="POST" action="{{ url_for('website.admin_dashboard') }}" onsubmit="return confirmSendMessage()">
+            <div class="text-box-container my-4 mt-5">
+                <textarea class="form-control" id="emergencyMessage" name="message" rows="5" placeholder="Enter your message here..."></textarea>
+            </div>
+            <button type="submit" class="btn dashboard-btn-primary btn-lg btn-block mt-4">Send Message</button>
+        </form>
+        <!-- The form for logging out of the admin dashboard-->
+        <form method="POST" action="{{ url_for('website.logout') }}">
+            <button type="submit" class="btn dashboard-btn-secondary btn-lg btn-block mt-2">Logout</button>
+        </form>
+
+        <!-- Horizontal line to separate the form from the Power BI dashboard-->
+        <hr>
+
+        <!-- The iframe for the Power BI dashboard-->
+        <div class="d-flex justify-content-center align-items-center mt-4" style="height: 100vh;">
+            <iframe title="Harm Reduction Chatbot Data Dashboard" width="850" height="600" src="https://app.powerbigov.us/view?r=eyJrIjoiOGMyYzU1Y2YtMTFhNS00Mjk4LWFkMWYtNTcwNDZiOTI2OGM1IiwidCI6ImZmNWI1YmM4LTkyNWItNDcxZi05NDJhLWViMTc2YzAzYWIzNiJ9" frameborder="0" allowFullScreen="true"></iframe>
+        </div>
+    </div>
+</main>
+{% endblock %}
