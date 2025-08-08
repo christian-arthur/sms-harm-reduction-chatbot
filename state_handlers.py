@@ -264,7 +264,7 @@ def state_ASK_AGE_GROUP(user_session, hashed_phone_number, body):
 def state_MAIN_MENU(user_session, hashed_phone_number, body):
     resp = MessagingResponse()
     # This logic triggers if the user selects the "find harm reduction resources" option
-    if body == '1' or typos_check(body, "find harm reduction resources"):
+    if body == '1' or typos_check(body, "harm reduction resources"):
         # This event records a user was interested in the harm reduction resources
         event_chatbot_service(hashed_phone_number, 'resource_menu', user_session.id)
         # The chatbot will set the state to RESOURCE_MENU

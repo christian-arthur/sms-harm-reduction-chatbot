@@ -82,11 +82,39 @@ main {
     flex: 1; 
 }
 
+.navbar-content-container {
+    white-space: normal;
+    text-align: right;
+    margin-left: auto;
+}
+
+.navbar-oss-text {
+    font-family: 'Montserrat', sans-serif !important;
+    color: #ff2828 !important;
+    font-size: 1.1em;
+    font-weight: 600;
+    white-space: normal;
+    text-align: right;
+    margin-left: auto;
+    flex: 1;
+}
+
 .office-text {
     font-family: "Lora", sans-serif;
     font-style: italic;
     font-size: 1.08em;
     font-weight: 400;
+}
+
+.navbar-right {
+    text-align: right;
+    margin-left: auto;
+}
+
+.logo-container {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
 }
 
 
