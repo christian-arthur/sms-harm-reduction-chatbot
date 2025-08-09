@@ -69,7 +69,7 @@ resource_menu_response = (
         "2) Medication for Opioid Use Disorder 💊\n"
         "3) Naloxone and Overdose Training 🚨\n"
         "4) Bridge Clinic (medical services) 🩺\n"
-        "5) Shelters for Individuals 🛏️\n"
+        "5) Emergency Shelter 🛏️\n"
         "6) Detox 🏥\n"
         "\nReply 'Menu' or '0' to return to the chatbot main menu."
 )
