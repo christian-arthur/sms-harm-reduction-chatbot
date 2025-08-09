@@ -89,8 +89,8 @@ more_resources = "Reply 'More' for the next page of resources."
 
 # Boilerplate for the resource view response. This is appended to the end of the resource view response.
 resource_view_boilerplate = (
-    "\nReply 'Resources' or '*' to return to the resources menu."
-    "\n\nReply 'Menu' or '0' to return to the chatbot main menu."  
+    "\nReply '*' or 'Resources' to return to the resources menu."
+    "\n\nReply '0' or 'Menu' to return to the chatbot main menu."  
 )       
 
 # Helpline menu response for the chatbot
@@ -105,8 +105,8 @@ helpline_menu_response = (
 
 # Boilerplate for the helpline view response. This is appended to the end of the helpline view response.
 helpline_view_boilerplate = (
-    "Reply 'Helplines' to return to the helpline menu."
-    "\n\nReply 'Menu' to return to the chatbot main menu."
+    "Reply '*' or 'Helplines' to return to the helpline menu."
+    "\n\nReply '0' or 'Menu' to return to the chatbot main menu."
     )
 
 # MA Substance Use Helpline info for the chatbot

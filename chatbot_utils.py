@@ -161,7 +161,7 @@ def geolocate_resources(resource_category, zipcode):
         name = row.get('organization_name', 'N/A')
         address = row.get('address', 'N/A')
         phone = row.get('phone_number', 'N/A')
-        response += f"{name}\n{address}\n{phone}\nDistance: inside zipcode {zipcode}\n---\n"
+        response += f"{name}\n{address}\n{phone}\nEstimated distance: inside zipcode {zipcode}\n---\n"
     
     # Calculate how many more resources we need
     remaining_count = 5 - len(inside_resources)
@@ -176,6 +176,6 @@ def geolocate_resources(resource_category, zipcode):
             address = row.get('address', 'N/A')
             phone = row.get('phone_number', 'N/A')
             distance_miles = row['distance_miles']
-            response += f"{name}\n{address}\n{phone}\nDistance: {distance_miles:.1f} miles away\n---\n"
+            response += f"{name}\n{address}\n{phone}\nEstimated distance: {distance_miles:.1f} miles away\n---\n"
     
     return response.strip()
