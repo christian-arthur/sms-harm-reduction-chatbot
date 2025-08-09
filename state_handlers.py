@@ -315,33 +315,33 @@ def state_RESOURCE_MENU(user_session, hashed_phone_number, body):
         # The chatbot will set the state to ZIPCODE_INPUT
         user_session.state = 'ZIPCODE_INPUT'
         # The chatbot will send the user the zipcode input message
-        resp.message(zipcode_input_message + resource_view_boilerplate)
+        resp.message(zipcode_input_message + "\n" + resource_view_boilerplate)
     # This logic triggers if the user selects the "0" or "menu" option
     elif body == '2' or typos_check(body, "medication for opioid use disorder"):
         user_session.resource_category = 'Medication for Opioid Use Disorder'
         event_resource_view(hashed_phone_number, user_session.resource_category, user_session.id)
         user_session.state = 'ZIPCODE_INPUT'
-        resp.message(zipcode_input_message + "\n\n" + resource_view_boilerplate)
+        resp.message(zipcode_input_message + "\n" + resource_view_boilerplate)
     elif body == '3' or typos_check(body, "naloxone and overdose training"):
-        user_session.resource_category = 'Naloxone & Overdose Education'
+        user_session.resource_category = 'Naloxone & OD Education'
         event_resource_view(hashed_phone_number, user_session.resource_category, user_session.id)
         user_session.state = 'ZIPCODE_INPUT'
-        resp.message(zipcode_input_message + "\n\n" + resource_view_boilerplate)
+        resp.message(zipcode_input_message + "\n" + resource_view_boilerplate)
     elif body == '4' or typos_check(body, "bridge clinic"):
         user_session.resource_category = 'Bridge Clinic'
         event_resource_view(hashed_phone_number, user_session.resource_category, user_session.id)
         user_session.state = 'ZIPCODE_INPUT'
-        resp.message(zipcode_input_message + "\n\n" + resource_view_boilerplate)
+        resp.message(zipcode_input_message + "\n" + resource_view_boilerplate)
     elif body == '5' or typos_check(body, "shelter"):
         user_session.resource_category = 'Shelter'
         event_resource_view(hashed_phone_number, user_session.resource_category, user_session.id)
         user_session.state = 'ZIPCODE_INPUT'
-        resp.message(zipcode_input_message + "\n\n" + resource_view_boilerplate)
+        resp.message(zipcode_input_message + "\n" + resource_view_boilerplate)
     elif body == '6' or typos_check(body, "detox"):
         user_session.resource_category = 'Detox'    
         event_resource_view(hashed_phone_number, user_session.resource_category, user_session.id)
         user_session.state = 'ZIPCODE_INPUT'
-        resp.message(zipcode_input_message + "\n\n" + resource_view_boilerplate)
+        resp.message(zipcode_input_message + "\n" + resource_view_boilerplate)
     elif any(typos_check(body, option) for option in ['0', 'menu']):    
         # The chatbot will set the state to MAIN_MENU
         user_session.state = "MAIN_MENU"
