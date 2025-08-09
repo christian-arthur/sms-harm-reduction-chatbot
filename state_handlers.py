@@ -370,7 +370,7 @@ def state_ZIPCODE_INPUT(user_session, hashed_phone_number, body):
         zipcode = body
         user_session.state = 'RESOURCE_VIEW'
         geolocate_result = geolocate_resources(user_session.resource_category, zipcode)
-        resp.message(geolocate_result + "Enter another zipcode to try again.\n" + resource_view_boilerplate)
+        resp.message(geolocate_result + "\nEnter another zipcode to try again.\n" + resource_view_boilerplate)
         user_session.state = 'ZIPCODE_INPUT'
         event_resource_view(hashed_phone_number, user_session.resource_category, user_session.id)
     else:
