@@ -10,8 +10,8 @@ from database import db
 # Create the Flask application
 app = Flask(__name__)
 # When testing locally uncomment the second line and comment out the first line. Do vice versa when deploying to Heroku
-# app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL').replace('postgres://', 'postgresql://', 1)
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('HR_DATABASE_URI')
+app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL').replace('postgres://', 'postgresql://', 1)
+#app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('HR_DATABASE_URI')
 # secret key
 app.secret_key = os.environ.get('SECRET_KEY')
 
