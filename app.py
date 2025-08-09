@@ -24,7 +24,7 @@ resources_data = None
 with app.app_context():
     # The db.drop_all() is commented out to prevent accidental database drops.
     # Uncomment it only when you need to drop and recreate the tables, during development.
-    db.drop_all()  # Drop all tables
+    # db.drop_all()  # Drop all tables
     # Create all tables if database does not exist
     db.create_all()  # Create all tables if database does not exist
 
